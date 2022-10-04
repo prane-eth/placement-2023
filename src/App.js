@@ -31,7 +31,12 @@ function App() {
 						<ul className="navbar-nav me-auto mb-2 mb-lg-0">
 							<li className="nav-item">
 								<a className="nav-link" aria-current="page" href="/">
-									Home
+									Month
+								</a>
+							</li>
+							<li className="nav-item">
+								<a className="nav-link" aria-current="page" href="/">
+									Date
 								</a>
 							</li>
 							<li className="nav-item dropdown">
@@ -42,25 +47,22 @@ function App() {
 									data-bs-toggle="dropdown"
 									aria-expanded="false"
 								>
-									Dropdown
+									Category
 								</a>
 								<ul className="dropdown-menu">
 									<li>
 										<a className="dropdown-item" href="/">
-											Action
+											Super Dream
 										</a>
 									</li>
 									<li>
 										<a className="dropdown-item" href="/">
-											Another action
+											Dream
 										</a>
 									</li>
 									<li>
-										<hr className="dropdown-divider" />
-									</li>
-									<li>
 										<a className="dropdown-item" href="/">
-											Something else here
+											Good
 										</a>
 									</li>
 								</ul>
@@ -70,11 +72,11 @@ function App() {
 							<input
 								className="form-control me-2"
 								type="search"
-								placeholder="Search"
+								placeholder="Filter with Name"
 								aria-label="Search"
 							/>
 							<button className="btn btn-outline-success" type="submit">
-								Search
+								Filter
 							</button>
 						</form>
 					</div>
@@ -95,12 +97,21 @@ function App() {
 				<tbody className="table-group-divider">
 					{Data.map((value, index) => (
 						<tr key={index}>
-							<th scope="row">{index}</th>
+							<th scope="row">{index + 1}</th>
 							<td>{value.month}</td>
 							<td>{value.companyName}</td>
 							<td>{value.ctc}</td>
 							<td>{value.examDate}</td>
-							<td>{value.category}</td>
+							<td
+								className={
+									"" +
+									(value.category === "Super Dream" ? "table-primary " : "") +
+									(value.category === "Dream" ? "table-success " : "") +
+									(value.category === "Good" ? "table-warning " : "")
+								}
+							>
+								{value.category}
+							</td>
 						</tr>
 					))}
 				</tbody>

@@ -5,7 +5,7 @@
 		"companyName": "Google",
 		"ctc": 30.3,
 		"examDate": "23 July",
-		"category": "Slot 1"
+		"category": "Dream"
 	},
 	{
 		"sno": 2,
@@ -13,7 +13,7 @@
 		"companyName": "Microsoft",
 		"ctc": 46,
 		"examDate": "18 July",
-		"category": "Slot 1"
+		"category": "Super Dream"
 	},
 	{
 		"sno": 3,
@@ -21,7 +21,7 @@
 		"companyName": "Medianet",
 		"ctc": 38,
 		"examDate": "20 July",
-		"category": "Slot 1"
+		"category": "Dream"
 	},
 	{
 		"sno": 4,
@@ -29,7 +29,7 @@
 		"companyName": "DE-shaw",
 		"ctc": 36.5,
 		"examDate": "15 July",
-		"category": "Slot 1"
+		"category": "Dream"
 	},
 	{
 		"sno": 5,
@@ -37,7 +37,7 @@
 		"companyName": "Infosys",
 		"ctc": "9.5(SP) / 6.25(SE)",
 		"examDate": "15 July",
-		"category": "Slot 1"
+		"category": "Good"
 	},
 	{
 		"sno": 6,
@@ -45,7 +45,7 @@
 		"companyName": "Palo Alto Networks(Women)",
 		"ctc": "-",
 		"examDate": "15 July",
-		"category": "Slot 1"
+		"category": "Dream"
 	},
 	{
 		"sno": 7,
@@ -53,7 +53,7 @@
 		"companyName": "Amazon",
 		"ctc": "-",
 		"examDate": "16 July",
-		"category": "Slot 1"
+		"category": "Dream"
 	},
 	{
 		"sno": 8,
@@ -61,7 +61,7 @@
 		"companyName": "AirBnb",
 		"ctc": 34.8,
 		"examDate": "21 July",
-		"category": "Slot 1"
+		"category": "Dream"
 	},
 	{
 		"sno": 9,
@@ -69,7 +69,7 @@
 		"companyName": "Walmart",
 		"ctc": 19.5,
 		"examDate": "24 July",
-		"category": "Slot 1"
+		"category": "Super Dream"
 	},
 	{
 		"sno": 10,
@@ -77,7 +77,7 @@
 		"companyName": "Morgan Stanely",
 		"ctc": 28.33,
 		"examDate": "20 July",
-		"category": "Slot 1"
+		"category": "Dream"
 	},
 	{
 		"sno": 11,
@@ -85,7 +85,7 @@
 		"companyName": "Wellsfargo",
 		"ctc": 23.5,
 		"examDate": "4 Aug",
-		"category": "Slot 1"
+		"category": "Dream"
 	},
 	{
 		"sno": 12,
@@ -93,7 +93,7 @@
 		"companyName": "Texas Instruments",
 		"ctc": 32.56,
 		"examDate": "26 July",
-		"category": "Slot 1"
+		"category": "Dream"
 	},
 	{
 		"sno": 13,
@@ -101,7 +101,7 @@
 		"companyName": "Euler Motors",
 		"ctc": 15,
 		"examDate": "26 July",
-		"category": "Slot 1"
+		"category": "Dream"
 	},
 	{
 		"sno": 14,
@@ -109,7 +109,7 @@
 		"companyName": "Shell",
 		"ctc": 12.4,
 		"examDate": "1 Aug",
-		"category": "Slot 1"
+		"category": "Dream"
 	},
 	{
 		"sno": 15,
@@ -117,7 +117,7 @@
 		"companyName": "Nielsen",
 		"ctc": "10-12",
 		"examDate": "6 Sep",
-		"category": "Slot 1"
+		"category": "Dream"
 	},
 	{
 		"sno": 16,
@@ -125,7 +125,7 @@
 		"companyName": "Sabre Corporation",
 		"ctc": 16.8,
 		"examDate": "26 July",
-		"category": "Slot 1"
+		"category": "Dream"
 	},
 	{
 		"sno": 17,
@@ -133,7 +133,7 @@
 		"companyName": "Bosch",
 		"ctc": 16,
 		"examDate": "29 July",
-		"category": "Slot 1"
+		"category": "Dream"
 	},
 	{
 		"sno": 18,
@@ -141,7 +141,7 @@
 		"companyName": "MathWorks",
 		"ctc": 18,
 		"examDate": "1 Aug",
-		"category": "Slot 1"
+		"category": "Dream"
 	},
 	{
 		"sno": 19,
@@ -149,7 +149,7 @@
 		"companyName": "Philips",
 		"ctc": 15.2,
 		"examDate": "26 July",
-		"category": "Slot 1"
+		"category": "Dream"
 	},
 	{
 		"sno": 20,
@@ -157,7 +157,7 @@
 		"companyName": "Arcesium",
 		"ctc": 36,
 		"examDate": "26 July",
-		"category": "Slot 1"
+		"category": "Dream"
 	},
 	{
 		"sno": 21,
@@ -165,7 +165,7 @@
 		"companyName": "Oracle",
 		"ctc": 18.26,
 		"examDate": "31 July",
-		"category": "Slot 1"
+		"category": "Dream"
 	},
 	{
 		"sno": 22,
@@ -173,7 +173,7 @@
 		"companyName": "Razorpay",
 		"ctc": 29,
 		"examDate": "26 July",
-		"category": "Slot 1"
+		"category": "Dream"
 	},
 	{
 		"sno": 23,
@@ -181,7 +181,7 @@
 		"companyName": "Urjanet",
 		"ctc": 15,
 		"examDate": "3 Aug",
-		"category": "Slot 1"
+		"category": "Dream"
 	},
 	{
 		"sno": 24,
@@ -189,7 +189,7 @@
 		"companyName": "TCS ",
 		"ctc": "3.5(N) / 7.2(D)",
 		"examDate": "TCS NQT",
-		"category": "Slot 1"
+		"category": "Good"
 	},
 	{
 		"sno": 25,
@@ -197,7 +197,7 @@
 		"companyName": "Byjus",
 		"ctc": 22,
 		"examDate": "30 July",
-		"category": "Slot 1"
+		"category": "Dream"
 	},
 	{
 		"sno": 26,
@@ -205,7 +205,7 @@
 		"companyName": "Fareportal",
 		"ctc": 20,
 		"examDate": "26 July",
-		"category": "Slot 1"
+		"category": "Dream"
 	},
 	{
 		"sno": 27,
@@ -213,7 +213,7 @@
 		"companyName": "MakeMyTrip",
 		"ctc": 18,
 		"examDate": "3 Aug",
-		"category": "Slot 1"
+		"category": "Dream"
 	},
 	{
 		"sno": 28,
@@ -221,6 +221,6 @@
 		"companyName": "Cloudera",
 		"ctc": 19,
 		"examDate": "5 Aug",
-		"category": "Slot 1"
+		"category": "Dream"
 	}
 ]
