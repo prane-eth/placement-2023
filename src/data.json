@@ -1,0 +1,226 @@
+[
+	{
+		"sno": 1,
+		"month": "July",
+		"companyName": "Google",
+		"ctc": 30.3,
+		"examDate": "23 July",
+		"category": "Slot 1"
+	},
+	{
+		"sno": 2,
+		"month": "July",
+		"companyName": "Microsoft",
+		"ctc": 46,
+		"examDate": "18 July",
+		"category": "Slot 1"
+	},
+	{
+		"sno": 3,
+		"month": "July",
+		"companyName": "Medianet",
+		"ctc": 38,
+		"examDate": "20 July",
+		"category": "Slot 1"
+	},
+	{
+		"sno": 4,
+		"month": "July",
+		"companyName": "DE-shaw",
+		"ctc": 36.5,
+		"examDate": "15 July",
+		"category": "Slot 1"
+	},
+	{
+		"sno": 5,
+		"month": "July",
+		"companyName": "Infosys",
+		"ctc": "9.5(SP) / 6.25(SE)",
+		"examDate": "15 July",
+		"category": "Slot 1"
+	},
+	{
+		"sno": 6,
+		"month": "July",
+		"companyName": "Palo Alto Networks(Women)",
+		"ctc": "-",
+		"examDate": "15 July",
+		"category": "Slot 1"
+	},
+	{
+		"sno": 7,
+		"month": "July",
+		"companyName": "Amazon",
+		"ctc": "-",
+		"examDate": "16 July",
+		"category": "Slot 1"
+	},
+	{
+		"sno": 8,
+		"month": "July",
+		"companyName": "AirBnb",
+		"ctc": 34.8,
+		"examDate": "21 July",
+		"category": "Slot 1"
+	},
+	{
+		"sno": 9,
+		"month": "July",
+		"companyName": "Walmart",
+		"ctc": 19.5,
+		"examDate": "24 July",
+		"category": "Slot 1"
+	},
+	{
+		"sno": 10,
+		"month": "July",
+		"companyName": "Morgan Stanely",
+		"ctc": 28.33,
+		"examDate": "20 July",
+		"category": "Slot 1"
+	},
+	{
+		"sno": 11,
+		"month": "July",
+		"companyName": "Wellsfargo",
+		"ctc": 23.5,
+		"examDate": "4 Aug",
+		"category": "Slot 1"
+	},
+	{
+		"sno": 12,
+		"month": "July",
+		"companyName": "Texas Instruments",
+		"ctc": 32.56,
+		"examDate": "26 July",
+		"category": "Slot 1"
+	},
+	{
+		"sno": 13,
+		"month": "July",
+		"companyName": "Euler Motors",
+		"ctc": 15,
+		"examDate": "26 July",
+		"category": "Slot 1"
+	},
+	{
+		"sno": 14,
+		"month": "July",
+		"companyName": "Shell",
+		"ctc": 12.4,
+		"examDate": "1 Aug",
+		"category": "Slot 1"
+	},
+	{
+		"sno": 15,
+		"month": "July",
+		"companyName": "Nielsen",
+		"ctc": "10-12",
+		"examDate": "6 Sep",
+		"category": "Slot 1"
+	},
+	{
+		"sno": 16,
+		"month": "July",
+		"companyName": "Sabre Corporation",
+		"ctc": 16.8,
+		"examDate": "26 July",
+		"category": "Slot 1"
+	},
+	{
+		"sno": 17,
+		"month": "July",
+		"companyName": "Bosch",
+		"ctc": 16,
+		"examDate": "29 July",
+		"category": "Slot 1"
+	},
+	{
+		"sno": 18,
+		"month": "July",
+		"companyName": "MathWorks",
+		"ctc": 18,
+		"examDate": "1 Aug",
+		"category": "Slot 1"
+	},
+	{
+		"sno": 19,
+		"month": "July",
+		"companyName": "Philips",
+		"ctc": 15.2,
+		"examDate": "26 July",
+		"category": "Slot 1"
+	},
+	{
+		"sno": 20,
+		"month": "July",
+		"companyName": "Arcesium",
+		"ctc": 36,
+		"examDate": "26 July",
+		"category": "Slot 1"
+	},
+	{
+		"sno": 21,
+		"month": "July",
+		"companyName": "Oracle",
+		"ctc": 18.26,
+		"examDate": "31 July",
+		"category": "Slot 1"
+	},
+	{
+		"sno": 22,
+		"month": "July",
+		"companyName": "Razorpay",
+		"ctc": 29,
+		"examDate": "26 July",
+		"category": "Slot 1"
+	},
+	{
+		"sno": 23,
+		"month": "July",
+		"companyName": "Urjanet",
+		"ctc": 15,
+		"examDate": "3 Aug",
+		"category": "Slot 1"
+	},
+	{
+		"sno": 24,
+		"month": "July",
+		"companyName": "TCS ",
+		"ctc": "3.5(N) / 7.2(D)",
+		"examDate": "TCS NQT",
+		"category": "Slot 1"
+	},
+	{
+		"sno": 25,
+		"month": "July",
+		"companyName": "Byjus",
+		"ctc": 22,
+		"examDate": "30 July",
+		"category": "Slot 1"
+	},
+	{
+		"sno": 26,
+		"month": "July",
+		"companyName": "Fareportal",
+		"ctc": 20,
+		"examDate": "26 July",
+		"category": "Slot 1"
+	},
+	{
+		"sno": 27,
+		"month": "July",
+		"companyName": "MakeMyTrip",
+		"ctc": 18,
+		"examDate": "3 Aug",
+		"category": "Slot 1"
+	},
+	{
+		"sno": 28,
+		"month": "July",
+		"companyName": "Cloudera",
+		"ctc": 19,
+		"examDate": "5 Aug",
+		"category": "Slot 1"
+	}
+]
