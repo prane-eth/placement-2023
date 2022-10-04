@@ -1,11 +1,88 @@
+import {
+	AiFillGithub,
+	AiFillLinkedin,
+	AiFillInstagram,
+	AiFillGoogleCircle,
+	AiFillTwitterCircle,
+} from "react-icons/ai";
 import "./App.css";
 import Data from "./data.json";
 
 function App() {
 	return (
 		<div className="App">
-			<table class="table">
-				<thead>
+			<nav className="navbar navbar-expand-lg bg-light">
+				<div className="container-fluid">
+					<a className="navbar-brand" href="/">
+						Placement 2023
+					</a>
+					<button
+						className="navbar-toggler"
+						type="button"
+						data-bs-toggle="collapse"
+						data-bs-target="#navbarSupportedContent"
+						aria-controls="navbarSupportedContent"
+						aria-expanded="false"
+						aria-label="Toggle navigation"
+					>
+						<span className="navbar-toggler-icon"></span>
+					</button>
+					<div className="collapse navbar-collapse" id="navbarSupportedContent">
+						<ul className="navbar-nav me-auto mb-2 mb-lg-0">
+							<li className="nav-item">
+								<a className="nav-link" aria-current="page" href="/">
+									Home
+								</a>
+							</li>
+							<li className="nav-item dropdown">
+								<a
+									className="nav-link dropdown-toggle"
+									href="/"
+									role="button"
+									data-bs-toggle="dropdown"
+									aria-expanded="false"
+								>
+									Dropdown
+								</a>
+								<ul className="dropdown-menu">
+									<li>
+										<a className="dropdown-item" href="/">
+											Action
+										</a>
+									</li>
+									<li>
+										<a className="dropdown-item" href="/">
+											Another action
+										</a>
+									</li>
+									<li>
+										<hr className="dropdown-divider" />
+									</li>
+									<li>
+										<a className="dropdown-item" href="/">
+											Something else here
+										</a>
+									</li>
+								</ul>
+							</li>
+						</ul>
+						<form className="d-flex" role="search">
+							<input
+								className="form-control me-2"
+								type="search"
+								placeholder="Search"
+								aria-label="Search"
+							/>
+							<button className="btn btn-outline-success" type="submit">
+								Search
+							</button>
+						</form>
+					</div>
+				</div>
+			</nav>
+
+			<table className="table table-striped table-hover table-secondary table-bordered m-0">
+				<thead className="table-dark">
 					<tr>
 						<th scope="col">S.No.</th>
 						<th scope="col">Month</th>
@@ -15,7 +92,7 @@ function App() {
 						<th scope="col">Category</th>
 					</tr>
 				</thead>
-				<tbody>
+				<tbody className="table-group-divider">
 					{Data.map((value, index) => (
 						<tr key={index}>
 							<th scope="row">{index}</th>
@@ -28,6 +105,37 @@ function App() {
 					))}
 				</tbody>
 			</table>
+
+			<footer className="text-center text-lg-start bg-dark text-light">
+				<section className="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
+					<div className="me-5 d-none d-lg-block">
+						<span>Get connected with us on social networks:</span>
+					</div>
+
+					<div>
+						<a href="/" className="me-4 text-light" target="_blank" rel="noreferrer">
+							<AiFillTwitterCircle size={25} />
+						</a>
+						<a href="/" className="me-4 text-light" target="_blank" rel="noreferrer">
+							<AiFillGoogleCircle size={25} />
+						</a>
+						<a href="/" className="me-4 text-light" target="_blank" rel="noreferrer">
+							<AiFillInstagram size={25} />
+						</a>
+						<a href="/" className="me-4 text-light" target="_blank" rel="noreferrer">
+							<AiFillLinkedin size={25} />
+						</a>
+						<a href="/" className="me-4 text-light" target="_blank" rel="noreferrer">
+							<AiFillGithub size={25} />
+						</a>
+					</div>
+				</section>
+
+				<div className="text-center p-4">
+					© 2023 Copyright: &nbsp;
+					<span className="fw-bold">Kaustubh & Manav</span>
+				</div>
+			</footer>
 		</div>
 	);
 }
