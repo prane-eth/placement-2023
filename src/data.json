@@ -35,7 +35,7 @@
 		"sno": 5,
 		"month": "July",
 		"companyName": "Infosys",
-		"ctc": "9.5(SP) / 6.25(SE)",
+		"ctc": 5,
 		"examDate": "15 July",
 		"category": "Good"
 	},
@@ -45,7 +45,7 @@
 		"companyName": "Palo Alto Networks(Women)",
 		"ctc": "-",
 		"examDate": "15 July",
-		"category": "Dream"
+		"category": ""
 	},
 	{
 		"sno": 7,
@@ -117,110 +117,6 @@
 		"companyName": "Nielsen",
 		"ctc": "10-12",
 		"examDate": "6 Sep",
-		"category": "Dream"
-	},
-	{
-		"sno": 16,
-		"month": "July",
-		"companyName": "Sabre Corporation",
-		"ctc": 16.8,
-		"examDate": "26 July",
-		"category": "Dream"
-	},
-	{
-		"sno": 17,
-		"month": "July",
-		"companyName": "Bosch",
-		"ctc": 16,
-		"examDate": "29 July",
-		"category": "Dream"
-	},
-	{
-		"sno": 18,
-		"month": "July",
-		"companyName": "MathWorks",
-		"ctc": 18,
-		"examDate": "1 Aug",
-		"category": "Dream"
-	},
-	{
-		"sno": 19,
-		"month": "July",
-		"companyName": "Philips",
-		"ctc": 15.2,
-		"examDate": "26 July",
-		"category": "Dream"
-	},
-	{
-		"sno": 20,
-		"month": "July",
-		"companyName": "Arcesium",
-		"ctc": 36,
-		"examDate": "26 July",
-		"category": "Dream"
-	},
-	{
-		"sno": 21,
-		"month": "July",
-		"companyName": "Oracle",
-		"ctc": 18.26,
-		"examDate": "31 July",
-		"category": "Dream"
-	},
-	{
-		"sno": 22,
-		"month": "July",
-		"companyName": "Razorpay",
-		"ctc": 29,
-		"examDate": "26 July",
-		"category": "Dream"
-	},
-	{
-		"sno": 23,
-		"month": "July",
-		"companyName": "Urjanet",
-		"ctc": 15,
-		"examDate": "3 Aug",
-		"category": "Dream"
-	},
-	{
-		"sno": 24,
-		"month": "July",
-		"companyName": "TCS ",
-		"ctc": "3.5(N) / 7.2(D)",
-		"examDate": "TCS NQT",
-		"category": "Good"
-	},
-	{
-		"sno": 25,
-		"month": "July",
-		"companyName": "Byjus",
-		"ctc": 22,
-		"examDate": "30 July",
-		"category": "Dream"
-	},
-	{
-		"sno": 26,
-		"month": "July",
-		"companyName": "Fareportal",
-		"ctc": 20,
-		"examDate": "26 July",
-		"category": "Dream"
-	},
-	{
-		"sno": 27,
-		"month": "July",
-		"companyName": "MakeMyTrip",
-		"ctc": 18,
-		"examDate": "3 Aug",
-		"category": "Dream"
-	},
-	{
-		"sno": 28,
-		"month": "July",
-		"companyName": "Cloudera",
-		"ctc": 19,
-		"examDate": "5 Aug",
 		"category": "Dream"
 	}
 ]
