@@ -7,7 +7,7 @@ import {
 	AiFillTwitterCircle,
 } from "react-icons/ai";
 import "./App.css";
-import Data from "./DATA.json";
+import Data from "./data.json";
 
 function App() {
 	const [searchName, setSearchName] = useState("");
@@ -182,5 +182,5 @@ export default App;
 
 // Change Logo
 // Fix Table width and Cell Height
-// Add Graphs and Charts
 // Add License, Social Media, Contact Page
+// Add Graphs and Charts
