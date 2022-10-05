@@ -33,7 +33,7 @@
 	},
 	{
 		"sno": 5,
-		"month": "July",
+		"month": "June",
 		"companyName": "Infosys",
 		"ctc": 5,
 		"examDate": "15 July",
@@ -49,7 +49,7 @@
 	},
 	{
 		"sno": 7,
-		"month": "July",
+		"month": "December",
 		"companyName": "Amazon",
 		"ctc": "-",
 		"examDate": "16 July",
@@ -57,7 +57,7 @@
 	},
 	{
 		"sno": 8,
-		"month": "July",
+		"month": "September",
 		"companyName": "AirBnb",
 		"ctc": 34.8,
 		"examDate": "21 July",
@@ -65,7 +65,7 @@
 	},
 	{
 		"sno": 9,
-		"month": "July",
+		"month": "September",
 		"companyName": "Walmart",
 		"ctc": 19.5,
 		"examDate": "24 July",

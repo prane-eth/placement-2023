@@ -13,6 +13,7 @@ function App() {
 	const [searchName, setSearchName] = useState("");
 	const [searchCategory, setSearchCategory] = useState("");
 	const [searchCTC, setSearchCTC] = useState(0);
+	const [searchMonth, setSearchMonth] = useState("");
 
 	return (
 		<div className="">
@@ -45,16 +46,25 @@ function App() {
 							</li>
 							<li className="nav-item mx-4">
 								<select
-									name="category"
+									name="month"
 									className="form-select"
 									onChange={(e) => {
-										setSearchCategory(e.target.value);
+										setSearchMonth(e.target.value);
 									}}
 								>
-									<option selected>Filter by Category</option>
-									<option value="good">Good</option>
-									<option value="dream">Dream</option>
-									<option value="superdream">Super Dream</option>
+									<option selected>Filter by Month</option>
+									<option value="January">January</option>
+									<option value="February">February</option>
+									<option value="March">March</option>
+									<option value="April">April</option>
+									<option value="May">May</option>
+									<option value="June">June</option>
+									<option value="July">July</option>
+									<option value="August">August</option>
+									<option value="September">September</option>
+									<option value="October">October</option>
+									<option value="November">November</option>
+									<option value="December">December</option>
 								</select>
 							</li>
 							<li className="nav-item">
@@ -66,10 +76,25 @@ function App() {
 									}}
 								>
 									<option selected>Filter by CTC</option>
+									<option value="0">Less than 10</option>
 									<option value="10">More than 10</option>
 									<option value="20">More than 20</option>
 									<option value="30">More than 30</option>
 									<option value="40">More than 40</option>
+								</select>
+							</li>
+							<li className="nav-item mx-4">
+								<select
+									name="category"
+									className="form-select"
+									onChange={(e) => {
+										setSearchCategory(e.target.value);
+									}}
+								>
+									<option selected>Filter by Category</option>
+									<option value="good">Good</option>
+									<option value="dream">Dream</option>
+									<option value="superdream">Super Dream</option>
 								</select>
 							</li>
 						</ul>
@@ -101,7 +126,38 @@ function App() {
 						}
 					})
 						.filter((value) => {
-							if (searchCTC === "10") {
+							if (searchMonth === "January") {
+								return value.month === "January";
+							} else if (searchMonth === "February") {
+								return value.month === "February";
+							} else if (searchMonth === "March") {
+								return value.month === "March";
+							} else if (searchMonth === "April") {
+								return value.month === "April";
+							} else if (searchMonth === "May") {
+								return value.month === "May";
+							} else if (searchMonth === "June") {
+								return value.month === "June";
+							} else if (searchMonth === "July") {
+								return value.month === "July";
+							} else if (searchMonth === "August") {
+								return value.month === "August";
+							} else if (searchMonth === "September") {
+								return value.month === "September";
+							} else if (searchMonth === "October") {
+								return value.month === "October";
+							} else if (searchMonth === "November") {
+								return value.month === "November";
+							} else if (searchMonth === "December") {
+								return value.month === "December";
+							} else {
+								return value;
+							}
+						})
+						.filter((value) => {
+							if (searchCTC === "0") {
+								return value.ctc <= 10;
+							} else if (searchCTC === "10") {
 								return value.ctc >= 10;
 							} else if (searchCTC === "20") {
 								return value.ctc >= 20;
