@@ -80,7 +80,7 @@ function App() {
 			<table className="table table-striped table-hover table-secondary table-bordered m-0 min-vh-100">
 				<thead className="table-dark">
 					<tr>
-						<th scope="col">S.No.</th>
+						<th scope="col">SNo</th>
 						<th scope="col">Month</th>
 						<th scope="col">Company Name</th>
 						<th scope="col">CTC (in LPA)</th>
