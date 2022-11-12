@@ -52,7 +52,7 @@ function App() {
 										setSearchMonth(e.target.value);
 									}}
 								>
-									<option selected>Filter by Month</option>
+									<option defaultValue>Filter by Month</option>
 									<option value="January">January</option>
 									<option value="February">February</option>
 									<option value="March">March</option>
@@ -75,7 +75,7 @@ function App() {
 										setSearchCTC(e.target.value);
 									}}
 								>
-									<option selected>Filter by CTC</option>
+									<option defaultValue>Filter by CTC</option>
 									<option value="0">Less than 10</option>
 									<option value="10">More than 10</option>
 									<option value="20">More than 20</option>
@@ -91,10 +91,10 @@ function App() {
 										setSearchCategory(e.target.value);
 									}}
 								>
-									<option selected>Filter by Category</option>
-									<option value="good">Good</option>
+									<option defaultValue>Filter by Category</option>
+									<option value="good">Regular</option>
 									<option value="dream">Dream</option>
-									<option value="superdream">Super Dream</option>
+									<option value="superdream">Slot 1 (Super Dream)</option>
 								</select>
 							</li>
 						</ul>
@@ -116,11 +116,11 @@ function App() {
 				<tbody className="table-group-divider">
 					{Data.filter((value) => {
 						if (searchCategory === "superdream") {
-							return value.category === "Super Dream";
+							return value.category === "Slot 1";
 						} else if (searchCategory === "dream") {
 							return value.category === "Dream";
 						} else if (searchCategory === "good") {
-							return value.category === "Good";
+							return value.category === "Regular";
 						} else {
 							return value;
 						}
@@ -244,6 +244,3 @@ function App() {
 }
 
 export default App;
-
-// Add License, Social Media, Contact Page
-// Add Graphs and Charts
