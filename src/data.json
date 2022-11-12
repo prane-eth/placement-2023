@@ -1,0 +1,1695 @@
+[
+	{
+		"month": "July",
+		"companyName": "Google",
+		"ctc": 30.3,
+		"examDate": "23 July"
+	},
+	{
+		"month": "July",
+		"companyName": "Microsoft",
+		"ctc": 46,
+		"examDate": "18 July",
+		"category": "Slot 1"
+	},
+	{
+		"month": "July",
+		"companyName": "Medianet",
+		"ctc": 38,
+		"examDate": "20 July",
+		"category": "Slot 1"
+	},
+	{
+		"month": "July",
+		"companyName": "DE-shaw",
+		"ctc": 36.5,
+		"examDate": "15 July",
+		"category": "Slot 1"
+	},
+	{
+		"month": "July",
+		"companyName": "Infosys",
+		"ctc": "9.5(SP) / 6.25(SE)",
+		"examDate": "30 July"
+	},
+	{
+		"month": "July",
+		"companyName": "Palo Alto Networks(Women)",
+		"ctc": "-"
+	},
+	{
+		"month": "July",
+		"companyName": "Amazon",
+		"ctc": "-",
+		"examDate": "16 July"
+	},
+	{
+		"month": "July",
+		"companyName": "AirBnb",
+		"ctc": 34.8,
+		"examDate": "21 July",
+		"category": "Slot 1"
+	},
+	{
+		"month": "July",
+		"companyName": "Walmart",
+		"ctc": 19.5,
+		"examDate": "24 July"
+	},
+	{
+		"month": "July",
+		"companyName": "Morgan Stanely",
+		"ctc": 28.33,
+		"examDate": "20 July",
+		"category": "Slot 1"
+	},
+	{
+		"month": "July",
+		"companyName": "Wellsfargo",
+		"ctc": 23.5,
+		"examDate": "4 Aug"
+	},
+	{
+		"month": "July",
+		"companyName": "Texas Instruments",
+		"ctc": 32.56,
+		"examDate": "25 July"
+	},
+	{
+		"month": "July",
+		"companyName": "Euler Motors",
+		"ctc": 15,
+		"examDate": "26 July"
+	},
+	{
+		"month": "July",
+		"companyName": "Shell",
+		"ctc": 12.4,
+		"examDate": "1 Aug"
+	},
+	{
+		"month": "July",
+		"companyName": "Nielsen",
+		"ctc": "10-12",
+		"examDate": "6 Sep"
+	},
+	{
+		"month": "July",
+		"companyName": "Sabre Corporation",
+		"ctc": 16.8,
+		"examDate": "28 July"
+	},
+	{
+		"month": "July",
+		"companyName": "Bosch",
+		"ctc": 16,
+		"examDate": "29 July"
+	},
+	{
+		"month": "July",
+		"companyName": "MathWorks",
+		"ctc": 18,
+		"examDate": "1 Aug"
+	},
+	{
+		"month": "July",
+		"companyName": "Philips",
+		"ctc": 15.2
+	},
+	{
+		"month": "July",
+		"companyName": "Arcesium",
+		"ctc": 36
+	},
+	{
+		"month": "July",
+		"companyName": "Oracle",
+		"ctc": 18.26,
+		"examDate": "31 July"
+	},
+	{
+		"month": "July",
+		"companyName": "Razorpay",
+		"ctc": 29,
+		"examDate": "3 Aug"
+	},
+	{
+		"month": "July",
+		"companyName": "Urjanet",
+		"ctc": 15,
+		"examDate": "3 Aug"
+	},
+	{
+		"month": "July",
+		"companyName": "TCS ",
+		"ctc": "3.5(N) / 7.2(D)",
+		"examDate": "TCS NQT"
+	},
+	{
+		"month": "July",
+		"companyName": "Byjus",
+		"ctc": 22,
+		"examDate": "30 July"
+	},
+	{
+		"month": "July",
+		"companyName": "Fareportal",
+		"ctc": 20,
+		"examDate": "1 Aug"
+	},
+	{
+		"month": "July",
+		"companyName": "MakeMyTrip",
+		"ctc": 18,
+		"examDate": "3 Aug"
+	},
+	{
+		"month": "July",
+		"companyName": "Cloudera",
+		"ctc": 19,
+		"examDate": "5 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Mercedes-Benz ",
+		"ctc": 10
+	},
+	{
+		"month": "August",
+		"companyName": "Zynga",
+		"ctc": 28,
+		"examDate": "7 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Human Holdings : Japan",
+		"ctc": 26,
+		"examDate": "6 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Nutanix",
+		"ctc": 22,
+		"examDate": "25 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Tekion",
+		"ctc": 17,
+		"examDate": "7 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Dell",
+		"ctc": 12.34,
+		"examDate": "6 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Cashfree",
+		"ctc": 22,
+		"examDate": "7 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Sandvine",
+		"ctc": 15.83,
+		"examDate": "11 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Amagi Media Labs",
+		"ctc": 17,
+		"examDate": "7 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Commvault",
+		"ctc": 31,
+		"examDate": "10 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Komprise",
+		"ctc": 20,
+		"examDate": "10 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Infoedge",
+		"ctc": 14.96,
+		"examDate": "12 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Convogenius",
+		"ctc": 15,
+		"examDate": "12 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "McKisney",
+		"ctc": 14,
+		"examDate": "21 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "SquadStack",
+		"ctc": 20,
+		"examDate": "13 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Society General",
+		"ctc": 14.96,
+		"examDate": "10 Oct"
+	},
+	{
+		"month": "August",
+		"companyName": "Cisco",
+		"ctc": 24.73,
+		"examDate": "8 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Bain Capability ",
+		"ctc": 14,
+		"examDate": "20 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Publicis Sapients",
+		"ctc": 16.63,
+		"examDate": "18 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Hewlett Packard",
+		"ctc": 17.5,
+		"examDate": "23 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Ion",
+		"ctc": 14.1,
+		"examDate": "16 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Darwinbox",
+		"ctc": 16.3,
+		"examDate": "17 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Luganodes",
+		"ctc": 15,
+		"examDate": "17 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Bajaj Finserv",
+		"ctc": 12.81,
+		"examDate": "17 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Schneider Electric",
+		"ctc": 9,
+		"examDate": "12 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Amazon(Again)",
+		"ctc": "25.65/18.49/17.67/17/17.38/14.5"
+	},
+	{
+		"month": "August",
+		"companyName": "IBM",
+		"ctc": 11,
+		"examDate": "20 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Accenture",
+		"ctc": 12,
+		"examDate": "21 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Jublient Food Works",
+		"ctc": 18,
+		"examDate": "19 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Pocketpills",
+		"ctc": 30,
+		"examDate": "22 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Athenahealth",
+		"ctc": 11,
+		"examDate": "24 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Delloite",
+		"ctc": 7.6,
+		"examDate": "20 Sept"
+	},
+	{
+		"month": "August",
+		"companyName": "Quicket",
+		"ctc": 15,
+		"examDate": "23 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Providence",
+		"ctc": 27,
+		"examDate": "21 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Microsoft",
+		"ctc": "-",
+		"examDate": "22 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Junglee",
+		"ctc": 20,
+		"examDate": "27 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Enphase Energy",
+		"ctc": 16.6,
+		"examDate": "25 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "SAP Labs",
+		"ctc": 24.5,
+		"examDate": "21 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "BLACKROCK",
+		"ctc": "12.5 / 15 ",
+		"examDate": "23 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Celigo",
+		"ctc": 16
+	},
+	{
+		"month": "August",
+		"companyName": "SWAYM",
+		"ctc": 17,
+		"examDate": "20 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Nutanix",
+		"ctc": 22,
+		"examDate": "25 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "ZF",
+		"ctc": 7.5,
+		"examDate": "25 Aug",
+		"category": "Dream"
+	},
+	{
+		"month": "August",
+		"companyName": "General Electric",
+		"ctc": "-",
+		"examDate": "22 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "DevRev",
+		"ctc": 12,
+		"examDate": "26 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "PolicyBazaar",
+		"ctc": 10,
+		"examDate": "26 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Bank Of America",
+		"ctc": 9.15
+	},
+	{
+		"month": "August",
+		"companyName": "Adsys",
+		"ctc": 10.5
+	},
+	{
+		"month": "August",
+		"companyName": "Vassar",
+		"ctc": 9
+	},
+	{
+		"month": "August",
+		"companyName": "OneShot AI",
+		"ctc": 13.2
+	},
+	{
+		"month": "August",
+		"companyName": "Barclays",
+		"ctc": 11.73
+	},
+	{
+		"month": "August",
+		"companyName": "Acclerize360",
+		"ctc": 12,
+		"examDate": "29 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Affinsys",
+		"ctc": 14
+	},
+	{
+		"month": "August",
+		"companyName": "Intel",
+		"ctc": "-"
+	},
+	{
+		"month": "August",
+		"companyName": "Tally",
+		"ctc": 11.3
+	},
+	{
+		"month": "August",
+		"companyName": "Data Insights",
+		"ctc": 36,
+		"examDate": "25 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "HSBC",
+		"ctc": 9
+	},
+	{
+		"month": "August",
+		"companyName": "Jon Deere",
+		"ctc": 12.63,
+		"examDate": "29 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Ivanti",
+		"ctc": 12
+	},
+	{
+		"month": "August",
+		"companyName": "Hyperverge",
+		"ctc": "30k(internship)",
+		"examDate": "24 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Institutional Shareholder",
+		"ctc": 13
+	},
+	{
+		"month": "August",
+		"companyName": "Mindtree",
+		"ctc": "3/4/6.5",
+		"examDate": "4 Sept",
+		"category": "Dream"
+	},
+	{
+		"month": "August",
+		"companyName": "American Express",
+		"ctc": 16.78,
+		"examDate": "3 Sept"
+	},
+	{
+		"month": "August",
+		"companyName": "Fastenal",
+		"ctc": 17
+	},
+	{
+		"month": "August",
+		"companyName": "Ather Energy",
+		"ctc": "10-12"
+	},
+	{
+		"month": "August",
+		"companyName": "Micro Focus",
+		"ctc": 12.45,
+		"examDate": "29 Aug"
+	},
+	{
+		"month": "August",
+		"companyName": "Nation with Namo",
+		"ctc": 19
+	},
+	{
+		"month": "August",
+		"companyName": "ICICI Lombard GIC",
+		"ctc": 10,
+		"examDate": "6 Sept"
+	},
+	{
+		"month": "August",
+		"companyName": "ITILITE",
+		"ctc": "9.5-11.5"
+	},
+	{
+		"month": "August",
+		"companyName": "RichPanel",
+		"ctc": 20
+	},
+	{
+		"month": "August",
+		"companyName": "Audify Tech",
+		"ctc": 18
+	},
+	{
+		"month": "August",
+		"companyName": "JTP (Gait) : Japan",
+		"ctc": 24
+	},
+	{
+		"month": "August",
+		"companyName": "Fundwave",
+		"ctc": "50k(internship)"
+	},
+	{
+		"month": "August",
+		"companyName": "Virtusa",
+		"ctc": "5.5/7",
+		"category": "Dream"
+	},
+	{
+		"month": "September",
+		"companyName": "Tata Digital",
+		"ctc": 15,
+		"examDate": "8 Sept"
+	},
+	{
+		"month": "September",
+		"companyName": "Aster Hospital",
+		"ctc": 15
+	},
+	{
+		"month": "September",
+		"companyName": "Kaleyra",
+		"ctc": 11.46
+	},
+	{
+		"month": "September",
+		"companyName": "ZLTech",
+		"ctc": 9
+	},
+	{
+		"month": "September",
+		"companyName": "Eli Lily",
+		"ctc": 11,
+		"examDate": "7 Sept"
+	},
+	{
+		"month": "September",
+		"companyName": "BharatX",
+		"ctc": 54
+	},
+	{
+		"month": "September",
+		"companyName": "UBS",
+		"ctc": "11-12.5",
+		"examDate": "11 Sept"
+	},
+	{
+		"month": "September",
+		"companyName": "Expedia",
+		"ctc": 12.1
+	},
+	{
+		"month": "September",
+		"companyName": "RootQuotient",
+		"ctc": 10,
+		"examDate": "9 Sept"
+	},
+	{
+		"month": "September",
+		"companyName": "Pepsico",
+		"ctc": 10.77
+	},
+	{
+		"month": "September",
+		"companyName": "PWC",
+		"ctc": 9,
+		"examDate": "6 Sept"
+	},
+	{
+		"month": "September",
+		"companyName": "Axxela",
+		"ctc": 14,
+		"examDate": "10 Sept"
+	},
+	{
+		"month": "September",
+		"companyName": "Daimler Truck",
+		"ctc": 8,
+		"examDate": "8 Sept",
+		"category": "Dream"
+	},
+	{
+		"month": "September",
+		"companyName": "Schlumberger",
+		"ctc": 21
+	},
+	{
+		"month": "September",
+		"companyName": "Hitwicket",
+		"ctc": "14/11"
+	},
+	{
+		"month": "September",
+		"companyName": "FlexCar IDC ",
+		"ctc": 24.15,
+		"examDate": "10 Sept"
+	},
+	{
+		"month": "September",
+		"companyName": "Unilever",
+		"ctc": 9
+	},
+	{
+		"month": "September",
+		"companyName": "Cognizant",
+		"ctc": 4,
+		"category": "Dream"
+	},
+	{
+		"month": "September",
+		"companyName": "Ericsson",
+		"ctc": 12.5
+	},
+	{
+		"month": "September",
+		"companyName": "Visa",
+		"ctc": 24,
+		"examDate": "12 Sept"
+	},
+	{
+		"month": "September",
+		"companyName": "Uber(Data Engineer)",
+		"ctc": 10,
+		"examDate": "12 Sept"
+	},
+	{
+		"month": "September",
+		"companyName": "CashRetail AI",
+		"ctc": "20k(internship)"
+	},
+	{
+		"month": "September",
+		"companyName": "Volvo",
+		"ctc": 7.5,
+		"category": "Dream"
+	},
+	{
+		"month": "September",
+		"companyName": "Samsung Semiconductor",
+		"ctc": 16
+	},
+	{
+		"month": "September",
+		"companyName": "nurture.farm",
+		"ctc": 29.8
+	},
+	{
+		"month": "September",
+		"companyName": "Michelin India",
+		"ctc": 10.4
+	},
+	{
+		"month": "September",
+		"companyName": "BAKERHUGHES",
+		"ctc": "30k(internship)"
+	},
+	{
+		"month": "September",
+		"companyName": "ExxonMobil Services",
+		"ctc": "11.41+10.25+1.16"
+	},
+	{
+		"month": "September",
+		"companyName": "App Dynamics",
+		"ctc": 23
+	},
+	{
+		"month": "September",
+		"companyName": "Latent View Analytics",
+		"ctc": "7/9",
+		"examDate": "12 Sept"
+	},
+	{
+		"month": "September",
+		"companyName": "42 Gears",
+		"ctc": 15
+	},
+	{
+		"month": "September",
+		"companyName": "Udaan",
+		"ctc": 21
+	},
+	{
+		"month": "September",
+		"companyName": "Sapiens Technologies",
+		"ctc": 14.25
+	},
+	{
+		"month": "September",
+		"companyName": "Intuit",
+		"ctc": 41.54,
+		"examDate": "10 Sept"
+	},
+	{
+		"month": "September",
+		"companyName": "OfBusiness",
+		"ctc": 22
+	},
+	{
+		"month": "September",
+		"companyName": "Microchip Technology",
+		"ctc": "10 + 4L(stocks)"
+	},
+	{
+		"month": "September",
+		"companyName": "GSK Global Capability Center",
+		"ctc": 15
+	},
+	{
+		"month": "September",
+		"companyName": "FABC LLC ",
+		"ctc": 12
+	},
+	{
+		"month": "September",
+		"companyName": "NTT India Digital Business ",
+		"ctc": 10
+	},
+	{
+		"month": "September",
+		"companyName": "CradlePoint",
+		"ctc": 16.63
+	},
+	{
+		"month": "September",
+		"companyName": "ZS Associates",
+		"ctc": 13
+	},
+	{
+		"month": "September",
+		"companyName": "Amadeus",
+		"ctc": 11.73
+	},
+	{
+		"month": "September",
+		"companyName": "Amdocs",
+		"ctc": 10
+	},
+	{
+		"month": "September",
+		"companyName": "Yoptima",
+		"ctc": 10
+	},
+	{
+		"month": "September",
+		"companyName": "EY - GDS",
+		"ctc": 7.61,
+		"category": "Dream"
+	},
+	{
+		"month": "September",
+		"companyName": "Hella Infra Marke",
+		"ctc": 15
+	},
+	{
+		"month": "September",
+		"companyName": "Freo",
+		"ctc": 13
+	},
+	{
+		"month": "September",
+		"companyName": "Samsung R&amp;D",
+		"ctc": 14.5
+	},
+	{
+		"month": "September",
+		"companyName": "JLL Technology",
+		"ctc": 11.8
+	},
+	{
+		"month": "September",
+		"companyName": "MiQ Digital",
+		"ctc": "9/11/12/13"
+	},
+	{
+		"month": "September",
+		"companyName": "LEADSQUARED",
+		"ctc": 11
+	},
+	{
+		"month": "September",
+		"companyName": "               CHARGEBEE",
+		"ctc": 21
+	},
+	{
+		"month": "September",
+		"companyName": "INSIGHTSOFTWARE",
+		"ctc": 10.78
+	},
+	{
+		"month": "September",
+		"companyName": "Standard Chartered GBS",
+		"ctc": 8.25
+	},
+	{
+		"month": "September",
+		"companyName": "Epsilon",
+		"ctc": 13
+	},
+	{
+		"month": "September",
+		"companyName": "Oracle (FSGBU)",
+		"ctc": 8.88,
+		"category": "Dream"
+	},
+	{
+		"month": "September",
+		"companyName": "Technip Energies",
+		"ctc": 5.8,
+		"category": "Dream"
+	},
+	{
+		"month": "September",
+		"companyName": "MulticoreWare",
+		"ctc": 10.2
+	},
+	{
+		"month": "September",
+		"companyName": "MulticoreWare",
+		"ctc": 7.2,
+		"category": "Dream"
+	},
+	{
+		"month": "September",
+		"companyName": "Clinicspot",
+		"ctc": 10
+	},
+	{
+		"month": "September",
+		"companyName": "Afford Medical",
+		"ctc": 10
+	},
+	{
+		"month": "September",
+		"companyName": "KIMBERLY CLARK",
+		"ctc": 15
+	},
+	{
+		"month": "September",
+		"companyName": "Osmosys",
+		"ctc": 10
+	},
+	{
+		"month": "September",
+		"companyName": "Ensuredit",
+		"ctc": 10
+	},
+	{
+		"month": "September",
+		"companyName": "Samsung Electro-Mechanics",
+		"ctc": 8,
+		"category": "Dream"
+	},
+	{
+		"month": "September",
+		"companyName": "AppViewX",
+		"ctc": 12
+	},
+	{
+		"month": "September",
+		"companyName": "Honeywell Technology",
+		"ctc": 8,
+		"category": "Dream"
+	},
+	{
+		"month": "September",
+		"companyName": "GalaxEye Space Solutions Limited",
+		"ctc": "6/7/8/10"
+	},
+	{
+		"month": "September",
+		"companyName": "EY -INDIA",
+		"ctc": 8.59,
+		"category": "Dream"
+	},
+	{
+		"month": "September",
+		"companyName": "LOGITECH",
+		"ctc": 8,
+		"category": "Dream"
+	},
+	{
+		"month": "September",
+		"companyName": "AppsforBharat",
+		"ctc": 10
+	},
+	{
+		"month": "September",
+		"companyName": "PayU",
+		"ctc": 19
+	},
+	{
+		"month": "September",
+		"companyName": "Telstra",
+		"ctc": 8.25,
+		"category": "Dream"
+	},
+	{
+		"month": "September",
+		"companyName": "Siemens Healthineers",
+		"ctc": 7.5,
+		"category": "Dream"
+	},
+	{
+		"month": "September",
+		"companyName": "Qualcomm",
+		"ctc": 12.6
+	},
+	{
+		"month": "September",
+		"companyName": "IBM (again)",
+		"ctc": 11
+	},
+	{
+		"month": "September",
+		"companyName": "Zee Entertainment",
+		"ctc": 14
+	},
+	{
+		"month": "September",
+		"companyName": "Codemantra",
+		"ctc": 16
+	},
+	{
+		"month": "September",
+		"companyName": " Bank of America (again)",
+		"ctc": 9.15,
+		"examDate": " "
+	},
+	{
+		"month": "September",
+		"companyName": "HSBC (again)",
+		"ctc": 10.25
+	},
+	{
+		"month": "September",
+		"companyName": "UPL",
+		"ctc": 7.15,
+		"category": "Dream"
+	},
+	{
+		"month": "September",
+		"companyName": "Uber(SDE-1)",
+		"ctc": 38
+	},
+	{
+		"month": "September",
+		"companyName": "Amazon(Again)"
+	},
+	{
+		"month": "September",
+		"companyName": "L &amp; T Construction",
+		"ctc": 6,
+		"category": "Dream"
+	},
+	{
+		"month": "September",
+		"companyName": "Dell",
+		"ctc": 8.47,
+		"category": "Dream"
+	},
+	{
+		"month": "September",
+		"companyName": "Verizon",
+		"ctc": 9.66
+	},
+	{
+		"month": "September",
+		"companyName": "Tredence Inc",
+		"ctc": 12
+	},
+	{
+		"month": "September",
+		"companyName": "Harman International",
+		"ctc": 7,
+		"category": "Dream"
+	},
+	{
+		"month": "September",
+		"companyName": "Tata motors",
+		"ctc": "8/10"
+	},
+	{
+		"month": "September",
+		"companyName": "Hono ai",
+		"ctc": 10
+	},
+	{
+		"month": "September",
+		"companyName": "Blaize",
+		"ctc": 13
+	},
+	{
+		"month": "September",
+		"companyName": "Cogoport Pvt Ltd",
+		"ctc": 17
+	},
+	{
+		"month": "September",
+		"companyName": "Mad Street Den",
+		"ctc": "9-14"
+	},
+	{
+		"month": "September",
+		"companyName": "PayPal",
+		"ctc": 34.4
+	},
+	{
+		"month": "September",
+		"companyName": "Apollo247",
+		"ctc": "16/20"
+	},
+	{
+		"month": "September",
+		"companyName": "JP MORGAN CHASE",
+		"ctc": 21.5
+	},
+	{
+		"month": "September",
+		"companyName": "Atlan",
+		"ctc": 20
+	},
+	{
+		"month": "September",
+		"companyName": "Epicor Software Pvt Ltd.",
+		"ctc": 9.25
+	},
+	{
+		"month": "September",
+		"companyName": "Wipro",
+		"ctc": 6.5,
+		"category": "Dream"
+	},
+	{
+		"month": "September",
+		"companyName": "Pine Labs",
+		"ctc": 15
+	},
+	{
+		"month": "September",
+		"companyName": "Becton Dickinson",
+		"ctc": 11
+	},
+	{
+		"month": "September",
+		"companyName": "Ozone Cloud",
+		"ctc": 12
+	},
+	{
+		"month": "September",
+		"companyName": "Dish Network",
+		"ctc": 13.97,
+		"category": "Dream"
+	},
+	{
+		"month": "October",
+		"companyName": "IDrive Software",
+		"ctc": 15
+	},
+	{
+		"month": "October",
+		"companyName": "Kinaxis India Pvt Ltd",
+		"ctc": "16.32/13.1/10.95"
+	},
+	{
+		"month": "October",
+		"companyName": "TresVista ",
+		"ctc": 7,
+		"category": "Dream"
+	},
+	{
+		"month": "October",
+		"companyName": "Havells India Ltd",
+		"ctc": "8+1+1+1.5"
+	},
+	{
+		"month": "October",
+		"companyName": "Tide platform Pvt Ltd.",
+		"ctc": 12
+	},
+	{
+		"month": "October",
+		"companyName": "Ericsson (R&amp;D)",
+		"ctc": 12
+	},
+	{
+		"month": "October",
+		"companyName": "Air Asia",
+		"ctc": 16
+	},
+	{
+		"month": "October",
+		"companyName": "Trilogy Innovations (CodeNation)",
+		"ctc": 36.5
+	},
+	{
+		"month": "October",
+		"companyName": "GENPACT",
+		"ctc": 9.5
+	},
+	{
+		"month": "October",
+		"companyName": "FedEx India",
+		"ctc": 20
+	},
+	{
+		"month": "October",
+		"companyName": "Maruti Suzuki India Limited",
+		"ctc": 10.34
+	},
+	{
+		"month": "October",
+		"companyName": "Visteon",
+		"ctc": 7,
+		"category": "Dream"
+	},
+	{
+		"month": "October",
+		"companyName": "JW Consultants",
+		"ctc": 3.8,
+		"category": "Regular"
+	},
+	{
+		"month": "October",
+		"companyName": "BNY MELLON",
+		"ctc": 21.64
+	},
+	{
+		"month": "October",
+		"companyName": "Fidelity Investment",
+		"ctc": 12
+	},
+	{
+		"month": "October",
+		"companyName": "Forma AI",
+		"ctc": 12
+	},
+	{
+		"month": "October",
+		"companyName": "JUSPAY",
+		"ctc": "27/21"
+	},
+	{
+		"month": "October",
+		"companyName": "Fractal Analytics",
+		"ctc": "-"
+	},
+	{
+		"month": "October",
+		"companyName": "Databricks",
+		"ctc": 9.45
+	},
+	{
+		"month": "October",
+		"companyName": "LetsTransport",
+		"ctc": "18-20"
+	},
+	{
+		"month": "October",
+		"companyName": "Natwest Group",
+		"ctc": "13+1+2+3"
+	},
+	{
+		"month": "October",
+		"companyName": "Plotline",
+		"ctc": 14
+	},
+	{
+		"month": "October",
+		"companyName": "Splitkaro",
+		"ctc": 12
+	},
+	{
+		"month": "October",
+		"companyName": "Vikabh Securities Pvt Ltd",
+		"ctc": 10
+	},
+	{
+		"month": "October",
+		"companyName": "Piramal Group",
+		"ctc": 12.54
+	},
+	{
+		"month": "October",
+		"companyName": "Trellix",
+		"ctc": 14.83
+	},
+	{
+		"month": "October",
+		"companyName": "Renault Nissan Technology ",
+		"ctc": 4.75,
+		"category": "Dream"
+	},
+	{
+		"month": "October",
+		"companyName": "Thorogood Associates",
+		"ctc": 14.15
+	},
+	{
+		"month": "October",
+		"companyName": "Dotpe Pvt Ltd",
+		"ctc": 13
+	},
+	{
+		"month": "October",
+		"companyName": "Darwinbox (again)",
+		"ctc": "16.3 / 9.75"
+	},
+	{
+		"month": "October",
+		"companyName": "Broadridge Financial Solutions",
+		"ctc": 10
+	},
+	{
+		"month": "October",
+		"companyName": "CITI Bank (CISPL)",
+		"ctc": 18
+	},
+	{
+		"month": "October",
+		"companyName": "MAQ Software",
+		"ctc": 7.5,
+		"category": "Dream"
+	},
+	{
+		"month": "October",
+		"companyName": "Sembly",
+		"ctc": 24
+	},
+	{
+		"month": "October",
+		"companyName": "FamPay",
+		"ctc": "-"
+	},
+	{
+		"month": "October",
+		"companyName": "Sembly",
+		"ctc": 24
+	},
+	{
+		"month": "October",
+		"companyName": "TechXR Innovations",
+		"ctc": 6,
+		"category": "Dream"
+	},
+	{
+		"month": "October",
+		"companyName": "sanhar abs india",
+		"ctc": 5,
+		"category": "Regular"
+	},
+	{
+		"month": "October",
+		"companyName": "Pitney Bowes",
+		"ctc": "40k(internship)",
+		"category": "Regular"
+	},
+	{
+		"month": "October",
+		"companyName": "Wissen Technology",
+		"ctc": "8+1.5+1.5"
+	},
+	{
+		"month": "October",
+		"companyName": "Zenduty",
+		"ctc": 10
+	},
+	{
+		"month": "October",
+		"companyName": "Electronic Arts",
+		"ctc": "-"
+	},
+	{
+		"month": "October",
+		"companyName": "MAMA EARTH",
+		"ctc": 10
+	},
+	{
+		"month": "October",
+		"companyName": "MONEYVIEW",
+		"ctc": 16
+	},
+	{
+		"month": "October",
+		"companyName": "Addverb Technologies",
+		"ctc": 15.9
+	},
+	{
+		"month": "October",
+		"companyName": "Futures First",
+		"ctc": 11
+	},
+	{
+		"month": "October",
+		"companyName": "Varroc Group",
+		"ctc": 5,
+		"category": "Dream"
+	},
+	{
+		"month": "October",
+		"companyName": "Jio Platforms",
+		"ctc": 8.5,
+		"category": "Dream"
+	},
+	{
+		"month": "October",
+		"companyName": "Vodafone",
+		"ctc": 4.75,
+		"category": "Regular"
+	},
+	{
+		"month": "October",
+		"companyName": "Voxela, Inc.",
+		"ctc": 18
+	},
+	{
+		"month": "October",
+		"companyName": "Titan",
+		"ctc": "12+1"
+	},
+	{
+		"month": "October",
+		"companyName": "Value labs",
+		"ctc": "5/6/7/8/9/10"
+	},
+	{
+		"month": "October",
+		"companyName": "MENTORMATCH",
+		"ctc": 6,
+		"category": "Dream"
+	},
+	{
+		"month": "October",
+		"companyName": "e2open",
+		"ctc": 8,
+		"category": "Dream"
+	},
+	{
+		"month": "October",
+		"companyName": "Incedo",
+		"ctc": 7.55,
+		"category": "Dream"
+	},
+	{
+		"month": "October",
+		"companyName": "CaratLane",
+		"ctc": "7+1",
+		"category": "Dream"
+	},
+	{
+		"month": "October",
+		"companyName": "Uhnder india",
+		"ctc": 9
+	},
+	{
+		"month": "October",
+		"companyName": "MENTORMATCH",
+		"ctc": 6
+	},
+	{
+		"month": "October",
+		"companyName": "ZGRI",
+		"ctc": "15k(interenship)"
+	},
+	{
+		"month": "October",
+		"companyName": "JSW",
+		"ctc": 9.5
+	},
+	{
+		"month": "October",
+		"companyName": "SRF",
+		"ctc": 7,
+		"category": "Dream"
+	},
+	{
+		"month": "October",
+		"companyName": "Zycus",
+		"ctc": 6.5,
+		"category": "Dream"
+	},
+	{
+		"month": "October",
+		"companyName": "INSIGHT SOFTWARE ",
+		"ctc": 10.72
+	},
+	{
+		"month": "October",
+		"companyName": "Rystad Energy Pvt Ltd",
+		"ctc": 9.75
+	},
+	{
+		"month": "October",
+		"companyName": "Ford",
+		"ctc": 6,
+		"category": "Dream"
+	},
+	{
+		"month": "October",
+		"companyName": "Deshaw",
+		"ctc": 21
+	},
+	{
+		"month": "October",
+		"companyName": "Dure Technologies",
+		"ctc": 10
+	},
+	{
+		"month": "October",
+		"companyName": "Ecolab Digital Center",
+		"ctc": 9,
+		"category": "Dream"
+	},
+	{
+		"month": "October",
+		"companyName": "Machenn Innovation",
+		"ctc": 4.5,
+		"category": "Regular"
+	},
+	{
+		"month": "October",
+		"companyName": "Miq Digital",
+		"ctc": "11/12"
+	},
+	{
+		"month": "October",
+		"companyName": "Ericsson Global India Services",
+		"ctc": 8.25,
+		"category": "Dream"
+	},
+	{
+		"month": "October",
+		"companyName": "PayU",
+		"ctc": 17.5
+	},
+	{
+		"month": "October",
+		"companyName": "Toyota",
+		"ctc": 10
+	},
+	{
+		"month": "October",
+		"companyName": "APMSE Software (EagleView)",
+		"ctc": "10+0.7+1"
+	},
+	{
+		"month": "October",
+		"companyName": "Collins Aerospace",
+		"ctc": 6.25,
+		"category": "Dream"
+	},
+	{
+		"month": "October",
+		"companyName": "Wiley",
+		"ctc": 11
+	},
+	{
+		"month": "October",
+		"companyName": "Subex",
+		"ctc": 10
+	},
+	{
+		"month": "October",
+		"companyName": "Edmingle - Ascorb Technologies",
+		"ctc": 9
+	},
+	{
+		"month": "November",
+		"companyName": "HashedIn by Deloitte",
+		"ctc": 8.1,
+		"category": "Dream"
+	},
+	{
+		"month": "November",
+		"companyName": "Forbes Technologies",
+		"ctc": 6,
+		"category": "Dream"
+	},
+	{
+		"month": "November",
+		"companyName": "Netcracker Technology Solutions",
+		"ctc": 12
+	},
+	{
+		"month": "November",
+		"companyName": "Vanenburg Software ",
+		"ctc": 7,
+		"category": "Dream"
+	},
+	{
+		"month": "November",
+		"companyName": "Wolkus",
+		"ctc": 8,
+		"category": "Dream"
+	},
+	{
+		"month": "November",
+		"companyName": "NFERENCE",
+		"ctc": 14
+	},
+	{
+		"month": "November",
+		"companyName": "BITCS",
+		"ctc": 10.5
+	},
+	{
+		"month": "November",
+		"companyName": "Unschool",
+		"ctc": 6.5,
+		"category": "Regular"
+	},
+	{
+		"month": "November",
+		"companyName": "Qualitest",
+		"ctc": 7,
+		"category": "Dream"
+	},
+	{
+		"month": "November",
+		"companyName": "Cognida ai",
+		"ctc": 7,
+		"category": "Dream"
+	},
+	{
+		"month": "November",
+		"companyName": "Valtech",
+		"ctc": 7,
+		"category": "Dream"
+	},
+	{
+		"month": "November",
+		"companyName": "GREY ORANGE",
+		"ctc": 9
+	},
+	{
+		"month": "November",
+		"companyName": "CoinFantasy",
+		"ctc": 10
+	},
+	{
+		"month": "November",
+		"companyName": "Cyient Ltd",
+		"ctc": 8,
+		"category": "Dream"
+	},
+	{
+		"month": "November",
+		"companyName": "Indegene",
+		"ctc": 8
+	},
+	{
+		"month": "November",
+		"companyName": "ChefX Labs India"
+	},
+	{
+		"month": "November",
+		"companyName": "Healthians",
+		"ctc": 12
+	},
+	{
+		"month": "November",
+		"companyName": "Openplay",
+		"ctc": 15
+	},
+	{
+		"month": "November",
+		"companyName": "Himachal Futuristic",
+		"ctc": 6,
+		"category": "Dream"
+	},
+	{
+		"month": "November",
+		"companyName": "Ford",
+		"ctc": 6,
+		"category": "Dream"
+	},
+	{
+		"month": "November",
+		"companyName": "Loopr AI",
+		"ctc": 12
+	},
+	{
+		"month": "November",
+		"companyName": "Indium",
+		"ctc": 9
+	},
+	{
+		"month": "November",
+		"companyName": "Yubi",
+		"ctc": 15
+	},
+	{
+		"month": "November",
+		"companyName": "TresVista",
+		"ctc": 8,
+		"category": "Dream"
+	},
+	{
+		"month": "November",
+		"companyName": "Value labs"
+	},
+	{
+		"month": "November",
+		"companyName": "Siemens",
+		"ctc": 5,
+		"category": "Regular "
+	}
+]

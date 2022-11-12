@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import {
 	AiFillGithub,
 	AiFillLinkedin,
@@ -7,31 +7,13 @@ import {
 	AiFillTwitterCircle,
 } from "react-icons/ai";
 import "./App.css";
+import Data from "./data.json";
 
 function App() {
 	const [searchName, setSearchName] = useState("");
 	const [searchCategory, setSearchCategory] = useState("");
 	const [searchCTC, setSearchCTC] = useState(0);
 	const [searchMonth, setSearchMonth] = useState("");
-	const [listData, setListData] = useState([]);
-
-	useEffect(() => {
-		const fetchList = async () => {
-			let a = await fetch(
-				`https://script.google.com/macros/s/AKfycby-ea1WSUD-j4iQoH5NUvf5kkg04r2aEW4W6-nn2e9V9LDFUTaLTcS0L7EkIE7D99u98g/exec`,
-				{
-					method: "GET",
-					headers: {
-						"Content-Type": "application/json",
-					},
-				}
-			);
-			let res = await a.json();
-			console.log(res);
-			setListData(res.data);
-		};
-		fetchList();
-	}, []);
 
 	return (
 		<div className="">
@@ -70,7 +52,7 @@ function App() {
 										setSearchMonth(e.target.value);
 									}}
 								>
-									<option defaultValue>Filter by Month</option>
+									<option selected>Filter by Month</option>
 									<option value="January">January</option>
 									<option value="February">February</option>
 									<option value="March">March</option>
@@ -93,7 +75,7 @@ function App() {
 										setSearchCTC(e.target.value);
 									}}
 								>
-									<option defaultValue>Filter by CTC</option>
+									<option selected>Filter by CTC</option>
 									<option value="0">Less than 10</option>
 									<option value="10">More than 10</option>
 									<option value="20">More than 20</option>
@@ -109,7 +91,7 @@ function App() {
 										setSearchCategory(e.target.value);
 									}}
 								>
-									<option defaultValue>Filter by Category</option>
+									<option selected>Filter by Category</option>
 									<option value="good">Good</option>
 									<option value="dream">Dream</option>
 									<option value="superdream">Super Dream</option>
@@ -132,18 +114,17 @@ function App() {
 					</tr>
 				</thead>
 				<tbody className="table-group-divider">
-					{listData
-						.filter((value) => {
-							if (searchCategory === "superdream") {
-								return value.category === "Super Dream";
-							} else if (searchCategory === "dream") {
-								return value.category === "Dream";
-							} else if (searchCategory === "good") {
-								return value.category === "Good";
-							} else {
-								return value;
-							}
-						})
+					{Data.filter((value) => {
+						if (searchCategory === "superdream") {
+							return value.category === "Super Dream";
+						} else if (searchCategory === "dream") {
+							return value.category === "Dream";
+						} else if (searchCategory === "good") {
+							return value.category === "Good";
+						} else {
+							return value;
+						}
+					})
 						.filter((value) => {
 							if (searchMonth === "January") {
 								return value.month === "January";
@@ -202,9 +183,9 @@ function App() {
 								key={index}
 								className={
 									"" +
-									(value.category === "Super Dream" ? "table-primary " : "") +
+									(value.category === "Slot 1" ? "table-primary " : "") +
 									(value.category === "Dream" ? "table-success " : "") +
-									(value.category === "Good" ? "table-warning " : "") +
+									(value.category === "Regular" ? "table-warning " : "") +
 									(value.category === "" ? "table-danger " : "")
 								}
 							>
