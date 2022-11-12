@@ -203,30 +203,39 @@ function App() {
 			<footer className="text-center text-lg-start bg-dark text-light">
 				<section className="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
 					<div className="me-5 d-none d-lg-block">
-						<span>Get connected with us on social networks:</span>
+						<span>Get connected on social networks:</span>
 					</div>
 
 					<div>
-						<a href="/" className="me-4 text-light" target="_blank" rel="noreferrer">
+						<a
+							href="https://twitter.com/ManavGo53314321"
+							className="me-4 text-light"
+							target="_blank"
+							rel="noreferrer"
+						>
 							<AiFillTwitterCircle size={25} />
 						</a>
-						<a href="/" className="me-4 text-light" target="_blank" rel="noreferrer">
-							<AiFillGoogleCircle size={25} />
-						</a>
-						<a href="/" className="me-4 text-light" target="_blank" rel="noreferrer">
-							<AiFillInstagram size={25} />
-						</a>
-						<a href="/" className="me-4 text-light" target="_blank" rel="noreferrer">
+						<a
+							href="https://www.linkedin.com/in/manav-goyal"
+							className="me-4 text-light"
+							target="_blank"
+							rel="noreferrer"
+						>
 							<AiFillLinkedin size={25} />
 						</a>
-						<a href="/" className="me-4 text-light" target="_blank" rel="noreferrer">
+						<a
+							href="https://github.com/manavgoyal111"
+							className="me-4 text-light"
+							target="_blank"
+							rel="noreferrer"
+						>
 							<AiFillGithub size={25} />
 						</a>
 					</div>
 				</section>
 
 				<div className="text-center p-4">
-					© 2023 Copyright: &nbsp;
+					Made by: &nbsp;
 					<span className="fw-bold">Kaustubh & Manav</span>
 				</div>
 			</footer>
@@ -236,7 +245,5 @@ function App() {
 
 export default App;
 
-// Change Logo
-// Fix Table width and Cell Height
 // Add License, Social Media, Contact Page
 // Add Graphs and Charts
