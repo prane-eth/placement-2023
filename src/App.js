@@ -20,7 +20,7 @@ function App() {
 			<nav className="navbar navbar-expand-lg bg-light">
 				<div className="container-fluid">
 					<a className="navbar-brand" href="/">
-						Placement Batch 2023
+						CSE Placement Batch 2023
 					</a>
 					<button
 						className="navbar-toggler"
