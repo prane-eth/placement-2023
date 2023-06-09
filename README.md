@@ -1,3 +1,2 @@
-# Placement 2023
-
+# Details of CSE Branch Placement 2022-23
 ---
