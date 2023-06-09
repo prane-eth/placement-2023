@@ -1,0 +1,4162 @@
+[
+ {
+  "id": 1,
+  "month": "July",
+  "companyName": "Google",
+  "ctc": 30.3,
+  "category": "Slot 1"
+ },
+ {
+  "id": 2,
+  "month": "July",
+  "companyName": "Microsoft",
+  "ctc": 46,
+  "category": "Slot 1"
+ },
+ {
+  "id": 3,
+  "month": "July",
+  "companyName": "Medianet",
+  "ctc": 38,
+  "category": "Slot 1"
+ },
+ {
+  "id": 4,
+  "month": "July",
+  "companyName": "DE-shaw",
+  "ctc": 36.5,
+  "category": "Slot 1"
+ },
+ {
+  "id": 5,
+  "month": "July",
+  "companyName": "Infosys",
+  "ctc": "9.5\/6.25",
+  "category": "Super Dream"
+ },
+ {
+  "id": 6,
+  "month": "July",
+  "companyName": "Palo Alto Networks(Women)",
+  "ctc": "-",
+  "category": "Super Dream"
+ },
+ {
+  "id": 7,
+  "month": "July",
+  "companyName": "Amazon",
+  "ctc": "-",
+  "category": "Super Dream"
+ },
+ {
+  "id": 8,
+  "month": "July",
+  "companyName": "AirBnb",
+  "ctc": 34.8,
+  "category": "Slot 1"
+ },
+ {
+  "id": 9,
+  "month": "July",
+  "companyName": "Walmart",
+  "ctc": 19.5,
+  "category": "Super Dream"
+ },
+ {
+  "id": 10,
+  "month": "July",
+  "companyName": "Morgan Stanely",
+  "ctc": 28.33,
+  "category": "Slot 1"
+ },
+ {
+  "id": 11,
+  "month": "July",
+  "companyName": "Wellsfargo",
+  "ctc": 23.5,
+  "category": "Super Dream"
+ },
+ {
+  "id": 12,
+  "month": "July",
+  "companyName": "Texas Instruments",
+  "ctc": 32.56,
+  "category": "Super Dream"
+ },
+ {
+  "id": 13,
+  "month": "July",
+  "companyName": "Euler Motors",
+  "ctc": 15,
+  "category": "Super Dream"
+ },
+ {
+  "id": 14,
+  "month": "July",
+  "companyName": "Shell",
+  "ctc": 12.4,
+  "category": "Super Dream"
+ },
+ {
+  "id": 15,
+  "month": "July",
+  "companyName": "Nielsen",
+  "ctc": "10-12",
+  "category": "Super Dream"
+ },
+ {
+  "id": 16,
+  "month": "July",
+  "companyName": "Sabre Corporation",
+  "ctc": 16.8,
+  "category": "Super Dream"
+ },
+ {
+  "id": 17,
+  "month": "July",
+  "companyName": "Bosch",
+  "ctc": 16,
+  "category": "Super Dream"
+ },
+ {
+  "id": 18,
+  "month": "July",
+  "companyName": "MathWorks",
+  "ctc": 18,
+  "category": "Super Dream"
+ },
+ {
+  "id": 19,
+  "month": "July",
+  "companyName": "Philips",
+  "ctc": 15.2,
+  "category": "Super Dream"
+ },
+ {
+  "id": 20,
+  "month": "July",
+  "companyName": "Arcesium",
+  "ctc": 36,
+  "category": "Super Dream"
+ },
+ {
+  "id": 21,
+  "month": "July",
+  "companyName": "Oracle",
+  "ctc": 18.26,
+  "category": "Super Dream"
+ },
+ {
+  "id": 22,
+  "month": "July",
+  "companyName": "Razorpay",
+  "ctc": 29,
+  "category": "Super Dream"
+ },
+ {
+  "id": 23,
+  "month": "July",
+  "companyName": "Urjanet",
+  "ctc": 15,
+  "category": "Super Dream"
+ },
+ {
+  "id": 24,
+  "month": "July",
+  "companyName": "TCS ",
+  "ctc": "3.5\/7.2",
+  "category": "Dream"
+ },
+ {
+  "id": 25,
+  "month": "July",
+  "companyName": "Byjus",
+  "ctc": 22,
+  "category": "Super Dream"
+ },
+ {
+  "id": 26,
+  "month": "July",
+  "companyName": "Fareportal",
+  "ctc": 20,
+  "category": "Super Dream"
+ },
+ {
+  "id": 27,
+  "month": "July",
+  "companyName": "MakeMyTrip",
+  "ctc": 18,
+  "category": "Super Dream"
+ },
+ {
+  "id": 28,
+  "month": "July",
+  "companyName": "Cloudera",
+  "ctc": 19,
+  "category": "Super Dream"
+ },
+ {
+  "id": 29,
+  "month": "August",
+  "companyName": "Mercedes-Benz ",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 30,
+  "month": "August",
+  "companyName": "Zynga",
+  "ctc": 28,
+  "category": "Super Dream"
+ },
+ {
+  "id": 31,
+  "month": "August",
+  "companyName": "Human Holdings : Japan",
+  "ctc": 26,
+  "category": "Super Dream"
+ },
+ {
+  "id": 32,
+  "month": "August",
+  "companyName": "Nutanix",
+  "ctc": 22,
+  "category": "Super Dream"
+ },
+ {
+  "id": 33,
+  "month": "August",
+  "companyName": "Tekion",
+  "ctc": 17,
+  "category": "Super Dream"
+ },
+ {
+  "id": 34,
+  "month": "August",
+  "companyName": "Dell",
+  "ctc": 12.34,
+  "category": "Super Dream"
+ },
+ {
+  "id": 35,
+  "month": "August",
+  "companyName": "Cashfree",
+  "ctc": 22,
+  "category": "Super Dream"
+ },
+ {
+  "id": 36,
+  "month": "August",
+  "companyName": "Sandvine",
+  "ctc": 15.83,
+  "category": "Super Dream"
+ },
+ {
+  "id": 37,
+  "month": "August",
+  "companyName": "Amagi Media Labs",
+  "ctc": 17,
+  "category": "Super Dream"
+ },
+ {
+  "id": 38,
+  "month": "August",
+  "companyName": "Commvault",
+  "ctc": 31,
+  "category": "Super Dream"
+ },
+ {
+  "id": 39,
+  "month": "August",
+  "companyName": "Komprise",
+  "ctc": 20,
+  "category": "Super Dream"
+ },
+ {
+  "id": 40,
+  "month": "August",
+  "companyName": "Infoedge",
+  "ctc": 14.96,
+  "category": "Super Dream"
+ },
+ {
+  "id": 41,
+  "month": "August",
+  "companyName": "Convogenius",
+  "ctc": 15,
+  "category": "Super Dream"
+ },
+ {
+  "id": 42,
+  "month": "August",
+  "companyName": "McKisney",
+  "ctc": 14,
+  "category": "Super Dream"
+ },
+ {
+  "id": 43,
+  "month": "August",
+  "companyName": "SquadStack",
+  "ctc": 20,
+  "category": "Super Dream"
+ },
+ {
+  "id": 44,
+  "month": "August",
+  "companyName": "Society General",
+  "ctc": 14.96,
+  "category": "Super Dream"
+ },
+ {
+  "id": 45,
+  "month": "August",
+  "companyName": "Cisco",
+  "ctc": 24.73,
+  "category": "Super Dream"
+ },
+ {
+  "id": 46,
+  "month": "August",
+  "companyName": "Bain Capability ",
+  "ctc": 14,
+  "category": "Super Dream"
+ },
+ {
+  "id": 47,
+  "month": "August",
+  "companyName": "Publicis Sapients",
+  "ctc": 16.63,
+  "category": "Super Dream"
+ },
+ {
+  "id": 48,
+  "month": "August",
+  "companyName": "Hewlett Packard",
+  "ctc": 17.5,
+  "category": "Super Dream"
+ },
+ {
+  "id": 49,
+  "month": "August",
+  "companyName": "Ion",
+  "ctc": 14.1,
+  "category": "Super Dream"
+ },
+ {
+  "id": 50,
+  "month": "August",
+  "companyName": "Darwinbox",
+  "ctc": 16.3,
+  "category": "Super Dream"
+ },
+ {
+  "id": 51,
+  "month": "August",
+  "companyName": "Luganodes",
+  "ctc": 15,
+  "category": "Super Dream"
+ },
+ {
+  "id": 52,
+  "month": "August",
+  "companyName": "Bajaj Finserv",
+  "ctc": 12.81,
+  "category": "Super Dream"
+ },
+ {
+  "id": 53,
+  "month": "August",
+  "companyName": "Schneider Electric",
+  "ctc": 9,
+  "category": "Super Dream"
+ },
+ {
+  "id": 54,
+  "month": "August",
+  "companyName": "Amazon(Again)",
+  "ctc": "25.65\/18.49\/17.67\/17\/17.38\/14.5",
+  "category": "Super Dream"
+ },
+ {
+  "id": 55,
+  "month": "August",
+  "companyName": "IBM",
+  "ctc": 11,
+  "category": "Super Dream"
+ },
+ {
+  "id": 56,
+  "month": "August",
+  "companyName": "Accenture",
+  "ctc": 12,
+  "category": "Super Dream"
+ },
+ {
+  "id": 57,
+  "month": "August",
+  "companyName": "Jublient Food Works",
+  "ctc": 18,
+  "category": "Super Dream"
+ },
+ {
+  "id": 58,
+  "month": "August",
+  "companyName": "Pocketpills",
+  "ctc": 30,
+  "category": "Super Dream"
+ },
+ {
+  "id": 59,
+  "month": "August",
+  "companyName": "Athenahealth",
+  "ctc": 11,
+  "category": "Super Dream"
+ },
+ {
+  "id": 60,
+  "month": "August",
+  "companyName": "Delloite",
+  "ctc": 7.6,
+  "category": "Super Dream"
+ },
+ {
+  "id": 61,
+  "month": "August",
+  "companyName": "Quicket",
+  "ctc": 15,
+  "category": "Super Dream"
+ },
+ {
+  "id": 62,
+  "month": "August",
+  "companyName": "Providence",
+  "ctc": 27,
+  "category": "Super Dream"
+ },
+ {
+  "id": 63,
+  "month": "August",
+  "companyName": "Microsoft",
+  "ctc": "-",
+  "category": "Super Dream"
+ },
+ {
+  "id": 64,
+  "month": "August",
+  "companyName": "Junglee",
+  "ctc": 20,
+  "category": "Super Dream"
+ },
+ {
+  "id": 65,
+  "month": "August",
+  "companyName": "Enphase Energy",
+  "ctc": 16.6,
+  "category": "Super Dream"
+ },
+ {
+  "id": 66,
+  "month": "August",
+  "companyName": "SAP Labs",
+  "ctc": 24.5,
+  "category": "Super Dream"
+ },
+ {
+  "id": 67,
+  "month": "August",
+  "companyName": "BLACKROCK",
+  "ctc": "12.5 \/ 15 ",
+  "category": "Super Dream"
+ },
+ {
+  "id": 68,
+  "month": "August",
+  "companyName": "Celigo",
+  "ctc": 16,
+  "category": "Super Dream"
+ },
+ {
+  "id": 69,
+  "month": "August",
+  "companyName": "SWAYM",
+  "ctc": 17,
+  "category": "Super Dream"
+ },
+ {
+  "id": 70,
+  "month": "August",
+  "companyName": "Nutanix",
+  "ctc": 22,
+  "category": "Super Dream"
+ },
+ {
+  "id": 71,
+  "month": "August",
+  "companyName": "ZF",
+  "ctc": 7.5,
+  "category": "Dream"
+ },
+ {
+  "id": 72,
+  "month": "August",
+  "companyName": "GE(Aerospace + Gas&Power)",
+  "ctc": "-",
+  "category": "Super Dream"
+ },
+ {
+  "id": 73,
+  "month": "August",
+  "companyName": "DevRev",
+  "ctc": 12,
+  "category": "Super Dream"
+ },
+ {
+  "id": 74,
+  "month": "August",
+  "companyName": "PolicyBazaar",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 75,
+  "month": "August",
+  "companyName": "Bank Of America",
+  "ctc": 9.15,
+  "category": "Super Dream"
+ },
+ {
+  "id": 76,
+  "month": "August",
+  "companyName": "Adsys",
+  "ctc": 10.5,
+  "category": "Super Dream"
+ },
+ {
+  "id": 77,
+  "month": "August",
+  "companyName": "Vassar",
+  "ctc": 9,
+  "category": "Super Dream"
+ },
+ {
+  "id": 78,
+  "month": "August",
+  "companyName": "OneShot AI",
+  "ctc": 13.2,
+  "category": "Super Dream"
+ },
+ {
+  "id": 79,
+  "month": "August",
+  "companyName": "Barclays",
+  "ctc": 11.73,
+  "category": "Super Dream"
+ },
+ {
+  "id": 80,
+  "month": "August",
+  "companyName": "Acclerize360",
+  "ctc": 12,
+  "category": "Super Dream"
+ },
+ {
+  "id": 81,
+  "month": "August",
+  "companyName": "Affinsys",
+  "ctc": 14,
+  "category": "Super Dream"
+ },
+ {
+  "id": 82,
+  "month": "August",
+  "companyName": "Intel",
+  "ctc": "-",
+  "category": "Super Dream"
+ },
+ {
+  "id": 83,
+  "month": "August",
+  "companyName": "Tally",
+  "ctc": 11.3,
+  "category": "Super Dream"
+ },
+ {
+  "id": 84,
+  "month": "August",
+  "companyName": "Data Insights",
+  "ctc": 36,
+  "category": "Super Dream"
+ },
+ {
+  "id": 85,
+  "month": "August",
+  "companyName": "HSBC",
+  "ctc": 9,
+  "category": "Super Dream"
+ },
+ {
+  "id": 86,
+  "month": "August",
+  "companyName": "Jon Deere",
+  "ctc": 12.63,
+  "category": "Super Dream"
+ },
+ {
+  "id": 87,
+  "month": "August",
+  "companyName": "Ivanti",
+  "ctc": 12,
+  "category": "Super Dream"
+ },
+ {
+  "id": 88,
+  "month": "August",
+  "companyName": "Hyperverge",
+  "ctc": "-",
+  "category": "Super Dream"
+ },
+ {
+  "id": 89,
+  "month": "August",
+  "companyName": "Institutional Shareholder",
+  "ctc": 13,
+  "category": "Super Dream"
+ },
+ {
+  "id": 90,
+  "month": "August",
+  "companyName": "Mindtree",
+  "ctc": "3\/4\/6.5",
+  "category": "Dream"
+ },
+ {
+  "id": 91,
+  "month": "August",
+  "companyName": "American Express",
+  "ctc": 16.78,
+  "category": "Super Dream"
+ },
+ {
+  "id": 92,
+  "month": "August",
+  "companyName": "Fastenal",
+  "ctc": 17,
+  "category": "Super Dream"
+ },
+ {
+  "id": 93,
+  "month": "August",
+  "companyName": "Ather Energy",
+  "ctc": "10-12",
+  "category": "Super Dream"
+ },
+ {
+  "id": 94,
+  "month": "August",
+  "companyName": "Micro Focus",
+  "ctc": 12.45,
+  "category": "Super Dream"
+ },
+ {
+  "id": 95,
+  "month": "August",
+  "companyName": "Nation with Namo",
+  "ctc": 19,
+  "category": "Super Dream"
+ },
+ {
+  "id": 96,
+  "month": "August",
+  "companyName": "ICICI Lombard GIC",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 97,
+  "month": "August",
+  "companyName": "ITILITE",
+  "ctc": "9.5-11.5",
+  "category": "Super Dream"
+ },
+ {
+  "id": 98,
+  "month": "August",
+  "companyName": "RichPanel",
+  "ctc": 20,
+  "category": "Super Dream"
+ },
+ {
+  "id": 99,
+  "month": "August",
+  "companyName": "Audify Tech",
+  "ctc": 18,
+  "category": "Super Dream"
+ },
+ {
+  "id": 100,
+  "month": "August",
+  "companyName": "JTP (Gait) : Japan",
+  "ctc": 24,
+  "category": "Super Dream"
+ },
+ {
+  "id": 101,
+  "month": "August",
+  "companyName": "Fundwave",
+  "ctc": "-",
+  "category": "Super Dream"
+ },
+ {
+  "id": 102,
+  "month": "August",
+  "companyName": "Virtusa",
+  "ctc": "5.5\/7",
+  "category": "Dream"
+ },
+ {
+  "id": 103,
+  "month": "September",
+  "companyName": "Tata Digital",
+  "ctc": 15,
+  "category": "Super Dream"
+ },
+ {
+  "id": 104,
+  "month": "September",
+  "companyName": "Aster Hospital",
+  "ctc": 15,
+  "category": "Super Dream"
+ },
+ {
+  "id": 105,
+  "month": "September",
+  "companyName": "Kaleyra",
+  "ctc": 11.46,
+  "category": "Super Dream"
+ },
+ {
+  "id": 106,
+  "month": "September",
+  "companyName": "ZLTech",
+  "ctc": 9,
+  "category": "Super Dream"
+ },
+ {
+  "id": 107,
+  "month": "September",
+  "companyName": "Eli Lily",
+  "ctc": 11,
+  "category": "Super Dream"
+ },
+ {
+  "id": 108,
+  "month": "September",
+  "companyName": "BharatX",
+  "ctc": 54,
+  "category": "Super Dream"
+ },
+ {
+  "id": 109,
+  "month": "September",
+  "companyName": "UBS",
+  "ctc": "11-12.5",
+  "category": "Super Dream"
+ },
+ {
+  "id": 110,
+  "month": "September",
+  "companyName": "Dover Corporation",
+  "ctc": 9,
+  "category": "Super Dream"
+ },
+ {
+  "id": 111,
+  "month": "September",
+  "companyName": "Expedia",
+  "ctc": 12.1,
+  "category": "Super Dream"
+ },
+ {
+  "id": 112,
+  "month": "September",
+  "companyName": "RootQuotient",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 113,
+  "month": "September",
+  "companyName": "Pepsico",
+  "ctc": 10.77,
+  "category": "Super Dream"
+ },
+ {
+  "id": 114,
+  "month": "September",
+  "companyName": "PWC",
+  "ctc": 9,
+  "category": "Super Dream"
+ },
+ {
+  "id": 115,
+  "month": "September",
+  "companyName": "Axxela",
+  "ctc": 14,
+  "category": "Super Dream"
+ },
+ {
+  "id": 116,
+  "month": "September",
+  "companyName": "Daimler Truck",
+  "ctc": 8,
+  "category": "Dream"
+ },
+ {
+  "id": 117,
+  "month": "September",
+  "companyName": "Schlumberger",
+  "ctc": 21,
+  "category": "Super Dream"
+ },
+ {
+  "id": 118,
+  "month": "September",
+  "companyName": "Hitwicket",
+  "ctc": "14\/11",
+  "category": "Super Dream"
+ },
+ {
+  "id": 119,
+  "month": "September",
+  "companyName": "FlexCar IDC ",
+  "ctc": 24.15,
+  "category": "Super Dream"
+ },
+ {
+  "id": 120,
+  "month": "September",
+  "companyName": "Unilever",
+  "ctc": 9,
+  "category": "Super Dream"
+ },
+ {
+  "id": 121,
+  "month": "September",
+  "companyName": "Cognizant",
+  "ctc": 4,
+  "category": "Dream"
+ },
+ {
+  "id": 122,
+  "month": "September",
+  "companyName": "Ericsson",
+  "ctc": 12.5,
+  "category": "Super Dream"
+ },
+ {
+  "id": 123,
+  "month": "September",
+  "companyName": "Visa",
+  "ctc": 24,
+  "category": "Super Dream"
+ },
+ {
+  "id": 124,
+  "month": "September",
+  "companyName": "Uber(Data Engineer)",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 125,
+  "month": "September",
+  "companyName": "CashRetail AI",
+  "ctc": "-",
+  "category": "Super Dream"
+ },
+ {
+  "id": 126,
+  "month": "September",
+  "companyName": "Volvo",
+  "ctc": 7.5,
+  "category": "Dream"
+ },
+ {
+  "id": 127,
+  "month": "September",
+  "companyName": "Samsung Semiconductor",
+  "ctc": 16,
+  "category": "Super Dream"
+ },
+ {
+  "id": 128,
+  "month": "September",
+  "companyName": "nurture.farm",
+  "ctc": 29.8,
+  "category": "Super Dream"
+ },
+ {
+  "id": 129,
+  "month": "September",
+  "companyName": "Michelin India",
+  "ctc": 10.4,
+  "category": "Super Dream"
+ },
+ {
+  "id": 130,
+  "month": "September",
+  "companyName": "BAKERHUGHES",
+  "ctc": 15.2,
+  "category": "Super Dream"
+ },
+ {
+  "id": 131,
+  "month": "September",
+  "companyName": "ExxonMobil Services",
+  "ctc": "11.41+10.25+1.16",
+  "category": "Super Dream"
+ },
+ {
+  "id": 132,
+  "month": "September",
+  "companyName": "App Dynamics",
+  "ctc": 23,
+  "category": "Super Dream"
+ },
+ {
+  "id": 133,
+  "month": "September",
+  "companyName": "Latent View Analytics",
+  "ctc": "7\/9",
+  "category": "Super Dream"
+ },
+ {
+  "id": 134,
+  "month": "September",
+  "companyName": "42 Gears",
+  "ctc": 15,
+  "category": "Super Dream"
+ },
+ {
+  "id": 135,
+  "month": "September",
+  "companyName": "Udaan",
+  "ctc": 21,
+  "category": "Super Dream"
+ },
+ {
+  "id": 136,
+  "month": "September",
+  "companyName": "Sapiens Technologies",
+  "ctc": 14.25,
+  "category": "Super Dream"
+ },
+ {
+  "id": 137,
+  "month": "September",
+  "companyName": "Intuit",
+  "ctc": 41.54,
+  "category": "Super Dream"
+ },
+ {
+  "id": 138,
+  "month": "September",
+  "companyName": "OfBusiness",
+  "ctc": 22,
+  "category": "Super Dream"
+ },
+ {
+  "id": 139,
+  "month": "September",
+  "companyName": "Microchip Technology",
+  "ctc": "10+4",
+  "category": "Super Dream"
+ },
+ {
+  "id": 140,
+  "month": "September",
+  "companyName": "GSK Global Capability Center",
+  "ctc": 15,
+  "category": "Super Dream"
+ },
+ {
+  "id": 141,
+  "month": "September",
+  "companyName": "FABC LLC ",
+  "ctc": 12,
+  "category": "Super Dream"
+ },
+ {
+  "id": 142,
+  "month": "September",
+  "companyName": "NTT India Digital Business ",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 143,
+  "month": "September",
+  "companyName": "CradlePoint",
+  "ctc": 16.63,
+  "category": "Super Dream"
+ },
+ {
+  "id": 144,
+  "month": "September",
+  "companyName": "ZS Associates",
+  "ctc": 13,
+  "category": "Super Dream"
+ },
+ {
+  "id": 145,
+  "month": "September",
+  "companyName": "Amadeus",
+  "ctc": 11.73,
+  "category": "Super Dream"
+ },
+ {
+  "id": 146,
+  "month": "September",
+  "companyName": "Amdocs",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 147,
+  "month": "September",
+  "companyName": "Yoptima",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 148,
+  "month": "September",
+  "companyName": "EY - GDS",
+  "ctc": 7.61,
+  "category": "Dream"
+ },
+ {
+  "id": 149,
+  "month": "September",
+  "companyName": "Hella Infra Marke",
+  "ctc": 15,
+  "category": "Super Dream"
+ },
+ {
+  "id": 150,
+  "month": "September",
+  "companyName": "Freo",
+  "ctc": 13,
+  "category": "Super Dream"
+ },
+ {
+  "id": 151,
+  "month": "September",
+  "companyName": "Samsung R&D",
+  "ctc": 14.5,
+  "category": "Super Dream"
+ },
+ {
+  "id": 152,
+  "month": "September",
+  "companyName": "JLL Technology",
+  "ctc": 11.8,
+  "category": "Super Dream"
+ },
+ {
+  "id": 153,
+  "month": "September",
+  "companyName": "MiQ Digital",
+  "ctc": "9\/11\/12\/13",
+  "category": "Super Dream"
+ },
+ {
+  "id": 154,
+  "month": "September",
+  "companyName": "LEADSQUARED",
+  "ctc": 11,
+  "category": "Super Dream"
+ },
+ {
+  "id": 155,
+  "month": "September",
+  "companyName": "               CHARGEBEE",
+  "ctc": 21,
+  "category": "Super Dream"
+ },
+ {
+  "id": 156,
+  "month": "September",
+  "companyName": "INSIGHTSOFTWARE",
+  "ctc": 10.78,
+  "category": "Super Dream"
+ },
+ {
+  "id": 157,
+  "month": "September",
+  "companyName": "Standard Chartered GBS",
+  "ctc": 8.25,
+  "category": "Super Dream"
+ },
+ {
+  "id": 158,
+  "month": "September",
+  "companyName": "Epsilon",
+  "ctc": 13,
+  "category": "Super Dream"
+ },
+ {
+  "id": 159,
+  "month": "September",
+  "companyName": "Oracle (FSGBU)",
+  "ctc": 8.88,
+  "category": "Dream"
+ },
+ {
+  "id": 160,
+  "month": "September",
+  "companyName": "Technip Energies",
+  "ctc": 5.8,
+  "category": "Dream"
+ },
+ {
+  "id": 161,
+  "month": "September",
+  "companyName": "MulticoreWare",
+  "ctc": 10.2,
+  "category": "Super Dream"
+ },
+ {
+  "id": 162,
+  "month": "September",
+  "companyName": "MulticoreWare",
+  "ctc": 7.2,
+  "category": "Dream"
+ },
+ {
+  "id": 163,
+  "month": "September",
+  "companyName": "Clinicspot",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 164,
+  "month": "September",
+  "companyName": "Afford Medical",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 165,
+  "month": "September",
+  "companyName": "KIMBERLY CLARK",
+  "ctc": 15,
+  "category": "Super Dream"
+ },
+ {
+  "id": 166,
+  "month": "September",
+  "companyName": "Osmosys",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 167,
+  "month": "September",
+  "companyName": "Ensuredit",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 168,
+  "month": "September",
+  "companyName": "Samsung Electro-Mechanics",
+  "ctc": 8,
+  "category": "Dream"
+ },
+ {
+  "id": 169,
+  "month": "September",
+  "companyName": "AppViewX",
+  "ctc": 12,
+  "category": "Super Dream"
+ },
+ {
+  "id": 170,
+  "month": "September",
+  "companyName": "Honeywell Technology",
+  "ctc": 8,
+  "category": "Dream"
+ },
+ {
+  "id": 171,
+  "month": "September",
+  "companyName": "GalaxEye Space Solutions Limited",
+  "ctc": "6\/7\/8\/10",
+  "category": "Super Dream"
+ },
+ {
+  "id": 172,
+  "month": "September",
+  "companyName": "EY -INDIA",
+  "ctc": 8.59,
+  "category": "Dream"
+ },
+ {
+  "id": 173,
+  "month": "September",
+  "companyName": "LOGITECH",
+  "ctc": 8,
+  "category": "Dream"
+ },
+ {
+  "id": 174,
+  "month": "September",
+  "companyName": "AppsforBharat",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 175,
+  "month": "September",
+  "companyName": "PayU",
+  "ctc": 19,
+  "category": "Super Dream"
+ },
+ {
+  "id": 176,
+  "month": "September",
+  "companyName": "Telstra",
+  "ctc": 8.25,
+  "category": "Dream"
+ },
+ {
+  "id": 177,
+  "month": "September",
+  "companyName": "Siemens Healthineers",
+  "ctc": 7.5,
+  "category": "Dream"
+ },
+ {
+  "id": 178,
+  "month": "September",
+  "companyName": "Qualcomm",
+  "ctc": 12.6,
+  "category": "Super Dream"
+ },
+ {
+  "id": 179,
+  "month": "September",
+  "companyName": "IBM (again)",
+  "ctc": 11,
+  "category": "Super Dream"
+ },
+ {
+  "id": 180,
+  "month": "September",
+  "companyName": "Zee Entertainment",
+  "ctc": 14,
+  "category": "Super Dream"
+ },
+ {
+  "id": 181,
+  "month": "September",
+  "companyName": "Codemantra",
+  "ctc": 16,
+  "category": "Super Dream"
+ },
+ {
+  "id": 182,
+  "month": "September",
+  "companyName": " Bank of America (again)",
+  "ctc": 9.15,
+  "category": "Super Dream"
+ },
+ {
+  "id": 183,
+  "month": "September",
+  "companyName": "HSBC (again)",
+  "ctc": 10.25,
+  "category": "Super Dream"
+ },
+ {
+  "id": 184,
+  "month": "September",
+  "companyName": "UPL",
+  "ctc": 7.15,
+  "category": "Dream"
+ },
+ {
+  "id": 185,
+  "month": "September",
+  "companyName": "Uber(SDE-1)",
+  "ctc": 38,
+  "category": "Super Dream"
+ },
+ {
+  "id": 186,
+  "month": "September",
+  "companyName": "Amazon(Again)",
+  "category": "Super Dream"
+ },
+ {
+  "id": 187,
+  "month": "September",
+  "companyName": "L & T Construction",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 188,
+  "month": "September",
+  "companyName": "Dell",
+  "ctc": 8.47,
+  "category": "Dream"
+ },
+ {
+  "id": 189,
+  "month": "September",
+  "companyName": "Verizon",
+  "ctc": 9.66,
+  "category": "Super Dream"
+ },
+ {
+  "id": 190,
+  "month": "September",
+  "companyName": "Tredence Inc",
+  "ctc": 12,
+  "category": "Super Dream"
+ },
+ {
+  "id": 191,
+  "month": "September",
+  "companyName": "Harman International",
+  "ctc": 7,
+  "category": "Dream"
+ },
+ {
+  "id": 192,
+  "month": "September",
+  "companyName": "Tata motors",
+  "ctc": "8\/10",
+  "category": "Super Dream"
+ },
+ {
+  "id": 193,
+  "month": "September",
+  "companyName": "Hono ai",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 194,
+  "month": "September",
+  "companyName": "Blaize",
+  "ctc": 13,
+  "category": "Super Dream"
+ },
+ {
+  "id": 195,
+  "month": "September",
+  "companyName": "Cogoport Pvt Ltd",
+  "ctc": 17,
+  "category": "Super Dream"
+ },
+ {
+  "id": 196,
+  "month": "September",
+  "companyName": "Mad Street Den",
+  "ctc": "9-14",
+  "category": "Super Dream"
+ },
+ {
+  "id": 197,
+  "month": "September",
+  "companyName": "PayPal",
+  "ctc": 34.4,
+  "category": "Super Dream"
+ },
+ {
+  "id": 198,
+  "month": "September",
+  "companyName": "Apollo247",
+  "ctc": "16\/20",
+  "category": "Super Dream"
+ },
+ {
+  "id": 199,
+  "month": "September",
+  "companyName": "JP MORGAN CHASE",
+  "ctc": 21.5,
+  "category": "Super Dream"
+ },
+ {
+  "id": 200,
+  "month": "September",
+  "companyName": "Atlan",
+  "ctc": 20,
+  "category": "Super Dream"
+ },
+ {
+  "id": 201,
+  "month": "September",
+  "companyName": "Epicor Software Pvt Ltd.",
+  "ctc": 9.25,
+  "category": "Super Dream"
+ },
+ {
+  "id": 202,
+  "month": "September",
+  "companyName": "Wipro",
+  "ctc": 6.5,
+  "category": "Dream"
+ },
+ {
+  "id": 203,
+  "month": "September",
+  "companyName": "Pine Labs",
+  "ctc": 15,
+  "category": "Super Dream"
+ },
+ {
+  "id": 204,
+  "month": "September",
+  "companyName": "Becton Dickinson",
+  "ctc": 11,
+  "category": "Super Dream"
+ },
+ {
+  "id": 205,
+  "month": "September",
+  "companyName": "Ozone Cloud",
+  "ctc": 12,
+  "category": "Super Dream"
+ },
+ {
+  "id": 206,
+  "month": "September",
+  "companyName": "Dish Network",
+  "ctc": 13.97,
+  "category": "Dream"
+ },
+ {
+  "id": 207,
+  "month": "October",
+  "companyName": "IDrive Software",
+  "ctc": 15,
+  "category": "Super Dream"
+ },
+ {
+  "id": 208,
+  "month": "October",
+  "companyName": "Kinaxis India Pvt Ltd",
+  "ctc": "16.32\/13.1\/10.95",
+  "category": "Super Dream"
+ },
+ {
+  "id": 209,
+  "month": "October",
+  "companyName": "TresVista ",
+  "ctc": 7,
+  "category": "Dream"
+ },
+ {
+  "id": 210,
+  "month": "October",
+  "companyName": "Havells India Ltd",
+  "ctc": "8+1+1+1.5",
+  "category": "Super Dream"
+ },
+ {
+  "id": 211,
+  "month": "October",
+  "companyName": "Tide platform Pvt Ltd.",
+  "ctc": 12,
+  "category": "Super Dream"
+ },
+ {
+  "id": 212,
+  "month": "October",
+  "companyName": "Ericsson (R&D)",
+  "ctc": 12,
+  "category": "Super Dream"
+ },
+ {
+  "id": 213,
+  "month": "October",
+  "companyName": "Air Asia",
+  "ctc": 16,
+  "category": "Super Dream"
+ },
+ {
+  "id": 214,
+  "month": "October",
+  "companyName": "Trilogy Innovations (CodeNation)",
+  "ctc": 36.5,
+  "category": "Super Dream"
+ },
+ {
+  "id": 215,
+  "month": "October",
+  "companyName": "GENPACT",
+  "ctc": 9.5,
+  "category": "Super Dream"
+ },
+ {
+  "id": 216,
+  "month": "October",
+  "companyName": "FedEx India",
+  "ctc": 20,
+  "category": "Super Dream"
+ },
+ {
+  "id": 217,
+  "month": "October",
+  "companyName": "Maruti Suzuki India Limited",
+  "ctc": 10.34,
+  "category": "Super Dream"
+ },
+ {
+  "id": 218,
+  "month": "October",
+  "companyName": "Visteon",
+  "ctc": 7,
+  "category": "Dream"
+ },
+ {
+  "id": 219,
+  "month": "October",
+  "companyName": "JW Consultants",
+  "ctc": 3.8,
+  "category": "Regular"
+ },
+ {
+  "id": 220,
+  "month": "October",
+  "companyName": "BNY MELLON",
+  "ctc": 21.64,
+  "category": "Super Dream"
+ },
+ {
+  "id": 221,
+  "month": "October",
+  "companyName": "Fidelity Investment",
+  "ctc": 12,
+  "category": "Super Dream"
+ },
+ {
+  "id": 222,
+  "month": "October",
+  "companyName": "Forma AI",
+  "ctc": 12,
+  "category": "Super Dream"
+ },
+ {
+  "id": 223,
+  "month": "October",
+  "companyName": "JUSPAY",
+  "ctc": "27\/21",
+  "category": "Super Dream"
+ },
+ {
+  "id": 224,
+  "month": "October",
+  "companyName": "Fractal Analytics",
+  "ctc": "-",
+  "category": "Super Dream"
+ },
+ {
+  "id": 225,
+  "month": "October",
+  "companyName": "Databricks",
+  "ctc": 9.45,
+  "category": "Super Dream"
+ },
+ {
+  "id": 226,
+  "month": "October",
+  "companyName": "LetsTransport",
+  "ctc": "18-20",
+  "category": "Super Dream"
+ },
+ {
+  "id": 227,
+  "month": "October",
+  "companyName": "Natwest Group",
+  "ctc": "13+1+2+3",
+  "category": "Super Dream"
+ },
+ {
+  "id": 228,
+  "month": "October",
+  "companyName": "Plotline",
+  "ctc": 14,
+  "category": "Super Dream"
+ },
+ {
+  "id": 229,
+  "month": "October",
+  "companyName": "Splitkaro",
+  "ctc": 12,
+  "category": "Super Dream"
+ },
+ {
+  "id": 230,
+  "month": "October",
+  "companyName": "Vikabh Securities Pvt Ltd",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 231,
+  "month": "October",
+  "companyName": "Piramal Group",
+  "ctc": 12.54,
+  "category": "Super Dream"
+ },
+ {
+  "id": 232,
+  "month": "October",
+  "companyName": "Trellix",
+  "ctc": 14.83,
+  "category": "Super Dream"
+ },
+ {
+  "id": 233,
+  "month": "October",
+  "companyName": "Renault Nissan Technology ",
+  "ctc": 4.75,
+  "category": "Dream"
+ },
+ {
+  "id": 234,
+  "month": "October",
+  "companyName": "Thorogood Associates",
+  "ctc": 14.15,
+  "category": "Super Dream"
+ },
+ {
+  "id": 235,
+  "month": "October",
+  "companyName": "Dotpe Pvt Ltd",
+  "ctc": 13,
+  "category": "Super Dream"
+ },
+ {
+  "id": 236,
+  "month": "October",
+  "companyName": "Darwinbox (again)",
+  "ctc": "16.3 \/ 9.75",
+  "category": "Super Dream"
+ },
+ {
+  "id": 237,
+  "month": "October",
+  "companyName": "Broadridge Financial Solutions",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 238,
+  "month": "October",
+  "companyName": "CITI Bank (CISPL)",
+  "ctc": 18,
+  "category": "Super Dream"
+ },
+ {
+  "id": 239,
+  "month": "October",
+  "companyName": "MAQ Software",
+  "ctc": 7.5,
+  "category": "Dream"
+ },
+ {
+  "id": 240,
+  "month": "October",
+  "companyName": "Sembly",
+  "ctc": 24,
+  "category": "Super Dream"
+ },
+ {
+  "id": 241,
+  "month": "October",
+  "companyName": "FamPay",
+  "ctc": "-",
+  "category": "Super Dream"
+ },
+ {
+  "id": 242,
+  "month": "October",
+  "companyName": "Sembly",
+  "ctc": 24,
+  "category": "Super Dream"
+ },
+ {
+  "id": 243,
+  "month": "October",
+  "companyName": "TechXR Innovations",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 244,
+  "month": "October",
+  "companyName": "sanhar abs india",
+  "ctc": 5,
+  "category": "Regular"
+ },
+ {
+  "id": 245,
+  "month": "October",
+  "companyName": "Pitney Bowes",
+  "ctc": "-",
+  "category": "Regular"
+ },
+ {
+  "id": 246,
+  "month": "October",
+  "companyName": "Wissen Technology",
+  "ctc": "8+1.5+1.5",
+  "category": "Super Dream"
+ },
+ {
+  "id": 247,
+  "month": "October",
+  "companyName": "Zenduty",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 248,
+  "month": "October",
+  "companyName": "Electronic Arts",
+  "ctc": "-",
+  "category": "Super Dream"
+ },
+ {
+  "id": 249,
+  "month": "October",
+  "companyName": "MAMA EARTH",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 250,
+  "month": "October",
+  "companyName": "MONEYVIEW",
+  "ctc": 16,
+  "category": "Super Dream"
+ },
+ {
+  "id": 251,
+  "month": "October",
+  "companyName": "Addverb Technologies",
+  "ctc": 15.9,
+  "category": "Super Dream"
+ },
+ {
+  "id": 252,
+  "month": "October",
+  "companyName": "Futures First",
+  "ctc": 11,
+  "category": "Super Dream"
+ },
+ {
+  "id": 253,
+  "month": "October",
+  "companyName": "Varroc Group",
+  "ctc": 5,
+  "category": "Dream"
+ },
+ {
+  "id": 254,
+  "month": "October",
+  "companyName": "Jio Platforms",
+  "ctc": 8.5,
+  "category": "Dream"
+ },
+ {
+  "id": 255,
+  "month": "October",
+  "companyName": "Vodafone",
+  "ctc": 4.75,
+  "category": "Regular"
+ },
+ {
+  "id": 256,
+  "month": "October",
+  "companyName": "Voxela, Inc.",
+  "ctc": 18,
+  "category": "Super Dream"
+ },
+ {
+  "id": 257,
+  "month": "October",
+  "companyName": "Titan",
+  "ctc": "12+1",
+  "category": "Super Dream"
+ },
+ {
+  "id": 258,
+  "month": "October",
+  "companyName": "Value labs",
+  "ctc": "5\/6\/7\/8\/9\/10",
+  "category": "Super Dream"
+ },
+ {
+  "id": 259,
+  "month": "October",
+  "companyName": "MENTORMATCH",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 260,
+  "month": "October",
+  "companyName": "e2open",
+  "ctc": 8,
+  "category": "Dream"
+ },
+ {
+  "id": 261,
+  "month": "October",
+  "companyName": "Incedo",
+  "ctc": 7.55,
+  "category": "Dream"
+ },
+ {
+  "id": 262,
+  "month": "October",
+  "companyName": "CaratLane",
+  "ctc": "7+1",
+  "category": "Dream"
+ },
+ {
+  "id": 263,
+  "month": "October",
+  "companyName": "Uhnder india",
+  "ctc": 9,
+  "category": "Super Dream"
+ },
+ {
+  "id": 264,
+  "month": "October",
+  "companyName": "MENTORMATCH",
+  "ctc": 6,
+  "category": "Super Dream"
+ },
+ {
+  "id": 265,
+  "month": "October",
+  "companyName": "ZGRI",
+  "ctc": "-",
+  "category": "Super Dream"
+ },
+ {
+  "id": 266,
+  "month": "October",
+  "companyName": "JSW",
+  "ctc": 9.5,
+  "category": "Super Dream"
+ },
+ {
+  "id": 267,
+  "month": "October",
+  "companyName": "SRF",
+  "ctc": 7,
+  "category": "Dream"
+ },
+ {
+  "id": 268,
+  "month": "October",
+  "companyName": "Zycus",
+  "ctc": 6.5,
+  "category": "Dream"
+ },
+ {
+  "id": 269,
+  "month": "October",
+  "companyName": "INSIGHT SOFTWARE ",
+  "ctc": 10.72,
+  "category": "Super Dream"
+ },
+ {
+  "id": 270,
+  "month": "October",
+  "companyName": "Rystad Energy Pvt Ltd",
+  "ctc": 9.75,
+  "category": "Super Dream"
+ },
+ {
+  "id": 271,
+  "month": "October",
+  "companyName": "Ford",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 272,
+  "month": "October",
+  "companyName": "Deshaw",
+  "ctc": 21,
+  "category": "Super Dream"
+ },
+ {
+  "id": 273,
+  "month": "October",
+  "companyName": "Dure Technologies",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 274,
+  "month": "October",
+  "companyName": "Ecolab Digital Center",
+  "ctc": 9,
+  "category": "Dream"
+ },
+ {
+  "id": 275,
+  "month": "October",
+  "companyName": "Machenn Innovation",
+  "ctc": 4.5,
+  "category": "Regular"
+ },
+ {
+  "id": 276,
+  "month": "October",
+  "companyName": "Miq Digital",
+  "ctc": "11\/12",
+  "category": "Super Dream"
+ },
+ {
+  "id": 277,
+  "month": "October",
+  "companyName": "Ericsson Global India Services",
+  "ctc": 8.25,
+  "category": "Dream"
+ },
+ {
+  "id": 278,
+  "month": "October",
+  "companyName": "PayU",
+  "ctc": 17.5,
+  "category": "Super Dream"
+ },
+ {
+  "id": 279,
+  "month": "October",
+  "companyName": "Toyota",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 280,
+  "month": "October",
+  "companyName": "APMSE Software (EagleView)",
+  "ctc": "10+0.7+1",
+  "category": "Super Dream"
+ },
+ {
+  "id": 281,
+  "month": "October",
+  "companyName": "Collins Aerospace",
+  "ctc": 6.25,
+  "category": "Dream"
+ },
+ {
+  "id": 282,
+  "month": "October",
+  "companyName": "Wiley",
+  "ctc": 11,
+  "category": "Super Dream"
+ },
+ {
+  "id": 283,
+  "month": "October",
+  "companyName": "Subex",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 284,
+  "month": "October",
+  "companyName": "Edmingle - Ascorb Technologies",
+  "ctc": 9,
+  "category": "Super Dream"
+ },
+ {
+  "id": 285,
+  "month": "November",
+  "companyName": "HashedIn by Deloitte",
+  "ctc": 8.1,
+  "category": "Dream"
+ },
+ {
+  "id": 286,
+  "month": "November",
+  "companyName": "Forbes Technologies",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 287,
+  "month": "November",
+  "companyName": "Netcracker Technology Solutions",
+  "ctc": 12,
+  "category": "Super Dream"
+ },
+ {
+  "id": 288,
+  "month": "November",
+  "companyName": "Vanenburg Software ",
+  "ctc": 7,
+  "category": "Dream"
+ },
+ {
+  "id": 289,
+  "month": "November",
+  "companyName": "Wolkus",
+  "ctc": 8,
+  "category": "Dream"
+ },
+ {
+  "id": 290,
+  "month": "November",
+  "companyName": "NFERENCE",
+  "ctc": 14,
+  "category": "Super Dream"
+ },
+ {
+  "id": 291,
+  "month": "November",
+  "companyName": "BITCS",
+  "ctc": 10.5,
+  "category": "Super Dream"
+ },
+ {
+  "id": 292,
+  "month": "November",
+  "companyName": "Unschool",
+  "ctc": 6.5,
+  "category": "Regular"
+ },
+ {
+  "id": 293,
+  "month": "November",
+  "companyName": "Qualitest",
+  "ctc": 7,
+  "category": "Dream"
+ },
+ {
+  "id": 294,
+  "month": "November",
+  "companyName": "Cognida ai",
+  "ctc": 7,
+  "category": "Dream"
+ },
+ {
+  "id": 295,
+  "month": "November",
+  "companyName": "Valtech",
+  "ctc": 7,
+  "category": "Dream"
+ },
+ {
+  "id": 296,
+  "month": "November",
+  "companyName": "GREY ORANGE",
+  "ctc": 9,
+  "category": "Super Dream"
+ },
+ {
+  "id": 297,
+  "month": "November",
+  "companyName": "CoinFantasy",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 298,
+  "month": "November",
+  "companyName": "Cyient Ltd",
+  "ctc": 8,
+  "category": "Dream"
+ },
+ {
+  "id": 299,
+  "month": "November",
+  "companyName": "Indegene",
+  "ctc": 8,
+  "category": "Super Dream"
+ },
+ {
+  "id": 300,
+  "month": "November",
+  "companyName": "ChefX Labs India",
+  "category": "Super Dream"
+ },
+ {
+  "id": 301,
+  "month": "November",
+  "companyName": "Healthians",
+  "ctc": 12,
+  "category": "Super Dream"
+ },
+ {
+  "id": 302,
+  "month": "November",
+  "companyName": "Openplay",
+  "ctc": 15,
+  "category": "Super Dream"
+ },
+ {
+  "id": 303,
+  "month": "November",
+  "companyName": "Himachal Futuristic",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 304,
+  "month": "November",
+  "companyName": "Ford",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 305,
+  "month": "November",
+  "companyName": "LooprAI",
+  "ctc": 12,
+  "category": "Super Dream"
+ },
+ {
+  "id": 306,
+  "month": "November",
+  "companyName": "Indium",
+  "ctc": 9,
+  "category": "Super Dream"
+ },
+ {
+  "id": 307,
+  "month": "November",
+  "companyName": "Yubi",
+  "ctc": 15,
+  "category": "Super Dream"
+ },
+ {
+  "id": 308,
+  "month": "November",
+  "companyName": "TresVista",
+  "ctc": 8,
+  "category": "Dream"
+ },
+ {
+  "id": 309,
+  "month": "November",
+  "companyName": "Value labs",
+  "category": "Super Dream"
+ },
+ {
+  "id": 310,
+  "month": "November",
+  "companyName": "Siemens",
+  "ctc": 5,
+  "category": "Regular"
+ },
+ {
+  "id": 311,
+  "month": "November",
+  "companyName": "Rapido.bike",
+  "ctc": 15,
+  "category": "Super Dream"
+ },
+ {
+  "id": 312,
+  "month": "November",
+  "companyName": "Hewlett Packard (again)",
+  "ctc": 17.5,
+  "category": "Super Dream"
+ },
+ {
+  "id": 313,
+  "month": "November",
+  "companyName": "JSW Group",
+  "ctc": "8.5+1.5",
+  "category": "Super Dream"
+ },
+ {
+  "id": 314,
+  "month": "November",
+  "companyName": "ENQUERO",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 315,
+  "month": "November",
+  "companyName": "SunMobility",
+  "ctc": 3.6,
+  "category": "Regular"
+ },
+ {
+  "id": 316,
+  "month": "November",
+  "companyName": "Oracle Cerner",
+  "ctc": "6-7.5",
+  "category": "Dream"
+ },
+ {
+  "id": 317,
+  "month": "November",
+  "companyName": "DeltaX",
+  "ctc": 7,
+  "category": "Dream"
+ },
+ {
+  "id": 318,
+  "month": "November",
+  "companyName": "Target",
+  "ctc": 15.34,
+  "category": "Super Dream"
+ },
+ {
+  "id": 319,
+  "month": "November",
+  "companyName": "o9 Solutions Management",
+  "ctc": "12+1.2+0.8",
+  "category": "Super Dream"
+ },
+ {
+  "id": 320,
+  "month": "November",
+  "companyName": "Alstom",
+  "ctc": 6.8,
+  "category": "Dream"
+ },
+ {
+  "id": 321,
+  "month": "November",
+  "companyName": "Vassar Labs",
+  "ctc": "6\/7",
+  "category": "Dream"
+ },
+ {
+  "id": 322,
+  "month": "November",
+  "companyName": "ET Medialabs Private Limited",
+  "ctc": 7,
+  "category": "Dream"
+ },
+ {
+  "id": 323,
+  "month": "November",
+  "companyName": "Ab InBev",
+  "ctc": 12,
+  "category": "Super Dream"
+ },
+ {
+  "id": 324,
+  "month": "November",
+  "companyName": "Mantarav Private Limited",
+  "ctc": 8,
+  "category": "Dream"
+ },
+ {
+  "id": 325,
+  "month": "November",
+  "companyName": "CoreStack",
+  "ctc": 9,
+  "category": "Super Dream"
+ },
+ {
+  "id": 326,
+  "month": "November",
+  "companyName": "SecPod Technologies",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 327,
+  "month": "November",
+  "companyName": "The smart cube",
+  "ctc": 7.5,
+  "category": "Dream"
+ },
+ {
+  "id": 328,
+  "month": "November",
+  "companyName": "KPMG (Digital Lighthouse profile)",
+  "ctc": 14.25,
+  "category": "Super Dream"
+ },
+ {
+  "id": 329,
+  "month": "November",
+  "companyName": "Verity Knowledge Solutions",
+  "ctc": 8,
+  "category": "Dream"
+ },
+ {
+  "id": 330,
+  "month": "November",
+  "companyName": "Verity Knowledge Solutions",
+  "ctc": 8,
+  "category": "Dream"
+ },
+ {
+  "id": 331,
+  "month": "November",
+  "companyName": "Blazeclan Technology",
+  "ctc": 7.2,
+  "category": "Dream"
+ },
+ {
+  "id": 332,
+  "month": "November",
+  "companyName": "Pepperfry",
+  "ctc": 13.2,
+  "category": "Super Dream"
+ },
+ {
+  "id": 333,
+  "month": "November",
+  "companyName": "Pragmatic Play India",
+  "ctc": 14,
+  "category": "Super Dream"
+ },
+ {
+  "id": 334,
+  "month": "November",
+  "companyName": "HERO MOTOCORP",
+  "ctc": 8.5,
+  "category": "Dream"
+ },
+ {
+  "id": 335,
+  "month": "November",
+  "companyName": "Goldman Sachs",
+  "ctc": "-",
+  "category": "Super Dream"
+ },
+ {
+  "id": 336,
+  "month": "November",
+  "companyName": "Ericsson (again)",
+  "ctc": 8.25,
+  "category": "Dream"
+ },
+ {
+  "id": 337,
+  "month": "November",
+  "companyName": "Biocon",
+  "ctc": 3.75,
+  "category": "Regular"
+ },
+ {
+  "id": 338,
+  "month": "November",
+  "companyName": "IDFC FIRST BANK",
+  "ctc": 16.45,
+  "category": "Super Dream"
+ },
+ {
+  "id": 339,
+  "month": "November",
+  "companyName": "HSBC India",
+  "ctc": 10.25,
+  "category": "Super Dream"
+ },
+ {
+  "id": 340,
+  "month": "November",
+  "companyName": "KNOLSKAPE SOLUTIONS ",
+  "ctc": 9,
+  "category": "Super Dream"
+ },
+ {
+  "id": 341,
+  "month": "November",
+  "companyName": "Information Systems Associates",
+  "ctc": 8,
+  "category": "Super Dream"
+ },
+ {
+  "id": 342,
+  "month": "November",
+  "companyName": "Ninjacart",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 343,
+  "month": "November",
+  "companyName": "Aumyaa Consulting Services",
+  "ctc": "6+1.2",
+  "category": "Dream"
+ },
+ {
+  "id": 344,
+  "month": "November",
+  "companyName": "Genesys",
+  "ctc": "-",
+  "category": "Super Dream"
+ },
+ {
+  "id": 345,
+  "month": "November",
+  "companyName": "Niyo Solutions Inc ",
+  "ctc": 15,
+  "category": "Super Dream"
+ },
+ {
+  "id": 346,
+  "month": "November",
+  "companyName": "KPMG(Tech enablement - FS & DEQ)",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 347,
+  "month": "November",
+  "companyName": "Capace Software ",
+  "ctc": 7,
+  "category": "Dream"
+ },
+ {
+  "id": 348,
+  "month": "November",
+  "companyName": "Daimler India ",
+  "ctc": 7.5,
+  "category": "Dream"
+ },
+ {
+  "id": 349,
+  "month": "November",
+  "companyName": "Stellantis",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 350,
+  "month": "November",
+  "companyName": "Dell",
+  "ctc": 8.47,
+  "category": "Dream"
+ },
+ {
+  "id": 351,
+  "month": "November",
+  "companyName": "SenseHQ",
+  "ctc": "-",
+  "category": "Regular"
+ },
+ {
+  "id": 352,
+  "month": "November",
+  "companyName": "WORKINDIA ",
+  "ctc": "12+1",
+  "category": "Super Dream"
+ },
+ {
+  "id": 353,
+  "month": "November",
+  "companyName": "COSGrid Networks",
+  "ctc": 7,
+  "category": "Dream"
+ },
+ {
+  "id": 354,
+  "month": "November",
+  "companyName": "UBS",
+  "ctc": "-",
+  "category": "Dream"
+ },
+ {
+  "id": 355,
+  "month": "November",
+  "companyName": "Sparrow Risk Management",
+  "ctc": 11,
+  "category": "Super Dream"
+ },
+ {
+  "id": 356,
+  "month": "November",
+  "companyName": "BeepKart",
+  "ctc": 4,
+  "category": "Regular"
+ },
+ {
+  "id": 357,
+  "month": "November",
+  "companyName": "MBit Wireless",
+  "ctc": 7.5,
+  "category": "Dream"
+ },
+ {
+  "id": 358,
+  "month": "November",
+  "companyName": "Leadsquared",
+  "ctc": "6\/10",
+  "category": "Dream"
+ },
+ {
+  "id": 359,
+  "month": "November",
+  "companyName": "GE Steam Power",
+  "ctc": "-",
+  "category": "Super Dream"
+ },
+ {
+  "id": 360,
+  "month": "November",
+  "companyName": "TheMathcompanyName",
+  "ctc": 5.5,
+  "category": "Regular"
+ },
+ {
+  "id": 361,
+  "month": "November",
+  "companyName": "COSGrid Networks",
+  "ctc": 7,
+  "category": "Dream"
+ },
+ {
+  "id": 362,
+  "month": "November",
+  "companyName": "Sleevesup",
+  "ctc": 12,
+  "category": "Super Dream"
+ },
+ {
+  "id": 363,
+  "month": "November",
+  "companyName": "Cleartax",
+  "ctc": "5.5+1",
+  "category": "Regular"
+ },
+ {
+  "id": 364,
+  "month": "November",
+  "companyName": "Xebia Global Services",
+  "ctc": 7,
+  "category": "Dream"
+ },
+ {
+  "id": 365,
+  "month": "November",
+  "companyName": "Brane Enterprises Pvt Ltd",
+  "ctc": 5,
+  "category": "Regular"
+ },
+ {
+  "id": 366,
+  "month": "November",
+  "companyName": "Philips India",
+  "ctc": "11.5+3",
+  "category": "Super Dream"
+ },
+ {
+  "id": 367,
+  "month": "November",
+  "companyName": "Cresen Solutions",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 368,
+  "month": "November",
+  "companyName": "Ebullient Securities PVT Ltd",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 369,
+  "month": "November",
+  "companyName": "Axtria India Pvt Ltd ",
+  "ctc": 4,
+  "category": "Regular"
+ },
+ {
+  "id": 370,
+  "month": "November",
+  "companyName": "Peninsular research operations",
+  "ctc": 6.5,
+  "category": "Dream"
+ },
+ {
+  "id": 371,
+  "month": "November",
+  "companyName": "Tata power",
+  "ctc": 6.64,
+  "category": "Dream"
+ },
+ {
+  "id": 372,
+  "month": "November",
+  "companyName": "Reliance Industries Limited",
+  "ctc": 7.5,
+  "category": "Dream"
+ },
+ {
+  "id": 373,
+  "month": "November",
+  "companyName": "Episource India Pvt Ltd",
+  "ctc": 8,
+  "category": "Dream"
+ },
+ {
+  "id": 374,
+  "month": "November",
+  "companyName": "KPMG",
+  "ctc": 5,
+  "category": "Regular"
+ },
+ {
+  "id": 375,
+  "month": "November",
+  "companyName": "Ebullient Securities ",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 376,
+  "month": "November",
+  "companyName": "Gain Credit",
+  "ctc": 9.3,
+  "category": "Super Dream"
+ },
+ {
+  "id": 377,
+  "month": "November",
+  "companyName": "dhiOmics Analytics Solutions",
+  "ctc": 5.18,
+  "category": "Regular"
+ },
+ {
+  "id": 378,
+  "month": "November",
+  "companyName": "JUSTDIAL",
+  "ctc": 11.5,
+  "category": "Super Dream"
+ },
+ {
+  "id": 379,
+  "month": "November",
+  "companyName": "CtrlS– Cloud4C",
+  "ctc": 4.5,
+  "category": "Regular"
+ },
+ {
+  "id": 380,
+  "month": "November",
+  "companyName": "Uptycs India",
+  "ctc": 13,
+  "category": "Super Dream"
+ },
+ {
+  "id": 381,
+  "month": "November",
+  "companyName": "Autolytics ( Actyv.ai)",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 382,
+  "month": "November",
+  "companyName": "Subex Limited",
+  "ctc": 8.5,
+  "category": "Dream"
+ },
+ {
+  "id": 383,
+  "month": "November",
+  "companyName": "Newfold",
+  "ctc": 15,
+  "category": "Super Dream"
+ },
+ {
+  "id": 384,
+  "month": "November",
+  "companyName": "Pregrad",
+  "ctc": 6,
+  "category": "Regular"
+ },
+ {
+  "id": 385,
+  "month": "November",
+  "companyName": "Ecolab Food Safety & Hygiene",
+  "ctc": "-",
+  "category": "Regular"
+ },
+ {
+  "id": 386,
+  "month": "November",
+  "companyName": "KMK Consulting",
+  "ctc": 8,
+  "category": "Dream"
+ },
+ {
+  "id": 387,
+  "month": "December",
+  "companyName": "Accelalpha",
+  "ctc": "7\/10",
+  "category": "Dream"
+ },
+ {
+  "id": 388,
+  "month": "December",
+  "companyName": "Accolite Digital",
+  "ctc": 8,
+  "category": "Dream"
+ },
+ {
+  "id": 389,
+  "month": "December",
+  "companyName": "Maruti Suzuki",
+  "ctc": "-",
+  "category": "Super Dream"
+ },
+ {
+  "id": 390,
+  "month": "December",
+  "companyName": "Freo",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 391,
+  "month": "December",
+  "companyName": "Hewlett Packard Enterprise",
+  "ctc": 17.5,
+  "category": "Super Dream"
+ },
+ {
+  "id": 392,
+  "month": "December",
+  "companyName": "Medtronic Engineering  ",
+  "ctc": "-",
+  "category": "Dream"
+ },
+ {
+  "id": 393,
+  "month": "December",
+  "companyName": "Vicara",
+  "ctc": 8,
+  "category": "Dream"
+ },
+ {
+  "id": 394,
+  "month": "December",
+  "companyName": "GE Steam Power",
+  "ctc": "-",
+  "category": "Super Dream"
+ },
+ {
+  "id": 395,
+  "month": "December",
+  "companyName": "Pitney Bowes",
+  "ctc": 5,
+  "category": "Regular"
+ },
+ {
+  "id": 396,
+  "month": "December",
+  "companyName": "EVERTZ",
+  "ctc": 6.5,
+  "category": "Dream"
+ },
+ {
+  "id": 397,
+  "month": "December",
+  "companyName": "ZF Wind Power",
+  "ctc": 5.3,
+  "category": "Regular"
+ },
+ {
+  "id": 398,
+  "month": "December",
+  "companyName": "Velocix Solutions",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 399,
+  "month": "December",
+  "companyName": "VoltaML",
+  "ctc": "-",
+  "category": "Regular"
+ },
+ {
+  "id": 400,
+  "month": "December",
+  "companyName": "Vistex Asia Pacific ",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 401,
+  "month": "December",
+  "companyName": "IHX",
+  "ctc": 6.5,
+  "category": "Dream"
+ },
+ {
+  "id": 402,
+  "month": "December",
+  "companyName": "H3 Mart",
+  "ctc": 5,
+  "category": "Regular"
+ },
+ {
+  "id": 403,
+  "month": "December",
+  "companyName": "Sonata software",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 404,
+  "month": "December",
+  "companyName": "Strand Life Sciences",
+  "ctc": 11,
+  "category": "Super Dream"
+ },
+ {
+  "id": 405,
+  "month": "December",
+  "companyName": "MAILMODO",
+  "ctc": 6.5,
+  "category": "Dream"
+ },
+ {
+  "id": 406,
+  "month": "December",
+  "companyName": "Dinamalar",
+  "ctc": "3.5-4.5",
+  "category": "Regular"
+ },
+ {
+  "id": 407,
+  "month": "December",
+  "companyName": "Rolling Arrays Consulting",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 408,
+  "month": "December",
+  "companyName": "Trademarkia",
+  "ctc": 12,
+  "category": "Super Dream"
+ },
+ {
+  "id": 409,
+  "month": "December",
+  "companyName": "Binocs co",
+  "ctc": 4,
+  "category": "Regular"
+ },
+ {
+  "id": 410,
+  "month": "December",
+  "companyName": "Springwoodlabs",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 411,
+  "month": "December",
+  "companyName": "Temenos",
+  "ctc": 6.1,
+  "category": "Dream"
+ },
+ {
+  "id": 412,
+  "month": "December",
+  "companyName": "ICICI LOMBARD",
+  "ctc": 3,
+  "category": "Regular"
+ },
+ {
+  "id": 413,
+  "month": "December",
+  "companyName": "Vistas Technolabs (OneCode)",
+  "ctc": "15\/20",
+  "category": "Super Dream"
+ },
+ {
+  "id": 414,
+  "month": "December",
+  "companyName": "      Aditya Birla Capital ",
+  "ctc": 11,
+  "category": "Super Dream"
+ },
+ {
+  "id": 415,
+  "month": "December",
+  "companyName": "GenY medium",
+  "ctc": 5,
+  "category": "Regular"
+ },
+ {
+  "id": 416,
+  "month": "December",
+  "companyName": "E2E Networks Limited",
+  "ctc": 4.6,
+  "category": "Regular"
+ },
+ {
+  "id": 417,
+  "month": "December",
+  "companyName": "MedGenome Labs Ltd",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 418,
+  "month": "December",
+  "companyName": "DanLaw Inc",
+  "ctc": 4.5,
+  "category": "Regular"
+ },
+ {
+  "id": 419,
+  "month": "December",
+  "companyName": "Condenast",
+  "ctc": 7,
+  "category": "Dream"
+ },
+ {
+  "id": 420,
+  "month": "December",
+  "companyName": "Anora Instrumentation ",
+  "ctc": 3.5,
+  "category": "Regular"
+ },
+ {
+  "id": 421,
+  "month": "December",
+  "companyName": "InfoObjects Inc",
+  "ctc": "5.2-6.5",
+  "category": "Regular"
+ },
+ {
+  "id": 422,
+  "month": "December",
+  "companyName": "Cyware Labs",
+  "ctc": "-",
+  "category": "Regular"
+ },
+ {
+  "id": 423,
+  "month": "December",
+  "companyName": "3dot14",
+  "ctc": 7,
+  "category": "Dream"
+ },
+ {
+  "id": 424,
+  "month": "December",
+  "companyName": "Zigram Technologies",
+  "ctc": 5,
+  "category": "Regular"
+ },
+ {
+  "id": 425,
+  "month": "December",
+  "companyName": "Zoomcar",
+  "ctc": 12,
+  "category": "Super Dream"
+ },
+ {
+  "id": 426,
+  "month": "December",
+  "companyName": "Maersk Global Service Centres",
+  "ctc": 9.83,
+  "category": "Super Dream"
+ },
+ {
+  "id": 427,
+  "month": "December",
+  "companyName": "Trinamix",
+  "ctc": 3.5,
+  "category": "Regular"
+ },
+ {
+  "id": 428,
+  "month": "December",
+  "companyName": "Physics Wallah",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 429,
+  "month": "December",
+  "companyName": "Samsung SDS",
+  "ctc": 12,
+  "category": "Super Dream"
+ },
+ {
+  "id": 430,
+  "month": "December",
+  "companyName": "Kongsberg Digital Software ",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 431,
+  "month": "December",
+  "companyName": "FNZ Technology",
+  "ctc": 12,
+  "category": "Super Dream"
+ },
+ {
+  "id": 432,
+  "month": "December",
+  "companyName": "Fluidech IT Service",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 433,
+  "month": "December",
+  "companyName": "BNP Paribas",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 434,
+  "month": "December",
+  "companyName": "Tvs Motors",
+  "ctc": 9,
+  "category": "Dream"
+ },
+ {
+  "id": 435,
+  "month": "December",
+  "companyName": "Microchip Technology",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 436,
+  "month": "December",
+  "companyName": "Yubi (again)",
+  "ctc": 15,
+  "category": "Super Dream"
+ },
+ {
+  "id": 437,
+  "month": "December",
+  "companyName": "Vedanta",
+  "ctc": 13.95,
+  "category": "Super Dream"
+ },
+ {
+  "id": 438,
+  "month": "December",
+  "companyName": "Ericsson",
+  "ctc": 7.5,
+  "category": "Dream"
+ },
+ {
+  "id": 439,
+  "month": "December",
+  "companyName": "Alphagrep Securities",
+  "ctc": "32\/27",
+  "category": "Super Dream"
+ },
+ {
+  "id": 440,
+  "month": "December",
+  "companyName": "Dunzo",
+  "ctc": "-",
+  "category": "Regular"
+ },
+ {
+  "id": 441,
+  "month": "December",
+  "companyName": "KREDITBEE",
+  "ctc": 8,
+  "category": "Dream"
+ },
+ {
+  "id": 442,
+  "month": "December",
+  "companyName": "Yokogawa",
+  "ctc": 4.6,
+  "category": "Regular"
+ },
+ {
+  "id": 443,
+  "month": "December",
+  "companyName": "Eightfold ai",
+  "ctc": "-",
+  "category": "Super Dream"
+ },
+ {
+  "id": 444,
+  "month": "December",
+  "companyName": "Jivox Software India",
+  "ctc": 12,
+  "category": "Super Dream"
+ },
+ {
+  "id": 445,
+  "month": "December",
+  "companyName": "Sterlite Technologies Limited",
+  "ctc": 12.5,
+  "category": "Super Dream"
+ },
+ {
+  "id": 446,
+  "month": "December",
+  "companyName": "Gigamon Solutions",
+  "ctc": "-",
+  "category": "Super Dream"
+ },
+ {
+  "id": 447,
+  "month": "December",
+  "companyName": "Bluetick ai",
+  "ctc": 5,
+  "category": "Regular"
+ },
+ {
+  "id": 448,
+  "month": "December",
+  "companyName": "3CLogic Inc",
+  "ctc": "-",
+  "category": "Regular"
+ },
+ {
+  "id": 449,
+  "month": "December",
+  "companyName": "British Telecom",
+  "ctc": 13,
+  "category": "Super Dream"
+ },
+ {
+  "id": 450,
+  "month": "January",
+  "companyName": "Schlumberger",
+  "ctc": 12.6,
+  "category": "Super Dream"
+ },
+ {
+  "id": 451,
+  "month": "January",
+  "companyName": "ARCON Tech Solutions",
+  "ctc": 7,
+  "category": "Dream"
+ },
+ {
+  "id": 452,
+  "month": "January",
+  "companyName": "HIPER AUTOMOTIVE",
+  "ctc": 4,
+  "category": "Regular"
+ },
+ {
+  "id": 453,
+  "month": "January",
+  "companyName": "Boeing",
+  "ctc": "8.8+2",
+  "category": "Super Dream"
+ },
+ {
+  "id": 454,
+  "month": "January",
+  "companyName": "Piramal Group",
+  "ctc": 12.54,
+  "category": "Super Dream"
+ },
+ {
+  "id": 455,
+  "month": "January",
+  "companyName": "Merkle Sokrati",
+  "ctc": 4.6,
+  "category": "Regular"
+ },
+ {
+  "id": 456,
+  "month": "January",
+  "companyName": "Sutherland Global Services",
+  "ctc": 7,
+  "category": "Dream"
+ },
+ {
+  "id": 457,
+  "month": "January",
+  "companyName": "HCL Technologies",
+  "ctc": "-",
+  "category": "Dream"
+ },
+ {
+  "id": 458,
+  "month": "January",
+  "companyName": "Upstox",
+  "ctc": 16,
+  "category": "Super Dream"
+ },
+ {
+  "id": 459,
+  "month": "January",
+  "companyName": "GEP",
+  "ctc": 16,
+  "category": "Super Dream"
+ },
+ {
+  "id": 460,
+  "month": "January",
+  "companyName": "TATA IQ",
+  "ctc": 7,
+  "category": "Dream"
+ },
+ {
+  "id": 461,
+  "month": "January",
+  "companyName": "New Street Technologies",
+  "ctc": 25,
+  "category": "Super Dream"
+ },
+ {
+  "id": 462,
+  "month": "January",
+  "companyName": "Illumine Industries",
+  "ctc": "-",
+  "category": "Regular"
+ },
+ {
+  "id": 463,
+  "month": "January",
+  "companyName": "TensorGo Technologies",
+  "ctc": 8,
+  "category": "Dream"
+ },
+ {
+  "id": 464,
+  "month": "January",
+  "companyName": "supermind",
+  "ctc": 7.5,
+  "category": "Dream"
+ },
+ {
+  "id": 465,
+  "month": "January",
+  "companyName": "HCL Tech",
+  "ctc": 4.25,
+  "category": "Regular"
+ },
+ {
+  "id": 466,
+  "month": "January",
+  "companyName": "Cisco",
+  "ctc": 14.04,
+  "category": "Super Dream"
+ },
+ {
+  "id": 467,
+  "month": "January",
+  "companyName": "ElectricPe",
+  "ctc": 8,
+  "category": "Dream"
+ },
+ {
+  "id": 468,
+  "month": "January",
+  "companyName": "PingSafe India",
+  "ctc": 17,
+  "category": "Super Dream"
+ },
+ {
+  "id": 469,
+  "month": "January",
+  "companyName": "propVIVO India",
+  "ctc": 4,
+  "category": "Regular"
+ },
+ {
+  "id": 470,
+  "month": "January",
+  "companyName": "        CARINFO",
+  "ctc": 11,
+  "category": "Super Dream"
+ },
+ {
+  "id": 471,
+  "month": "January",
+  "companyName": "Axis Bank",
+  "ctc": 8,
+  "category": "Dream"
+ },
+ {
+  "id": 472,
+  "month": "January",
+  "companyName": "e-consystems",
+  "ctc": 5,
+  "category": "Regular"
+ },
+ {
+  "id": 473,
+  "month": "January",
+  "companyName": "Metamorphosis",
+  "ctc": 6,
+  "category": "Regular"
+ },
+ {
+  "id": 474,
+  "month": "January",
+  "companyName": "Tekmonk",
+  "ctc": 8,
+  "category": "Dream"
+ },
+ {
+  "id": 475,
+  "month": "January",
+  "companyName": "Spark Capital",
+  "ctc": 6,
+  "category": "Regular"
+ },
+ {
+  "id": 476,
+  "month": "January",
+  "companyName": "Ascendo ai",
+  "ctc": 5,
+  "category": "Regular"
+ },
+ {
+  "id": 477,
+  "month": "January",
+  "companyName": "HotWax Systems",
+  "ctc": 8,
+  "category": "Dream"
+ },
+ {
+  "id": 478,
+  "month": "January",
+  "companyName": "HEXR FACTORY IMMERSIVE TECH.",
+  "ctc": "-",
+  "category": "Regular"
+ },
+ {
+  "id": 479,
+  "month": "January",
+  "companyName": "Brakes India ",
+  "ctc": 4.9,
+  "category": "Regular"
+ },
+ {
+  "id": 480,
+  "month": "January",
+  "companyName": "Thinkinnov solution",
+  "ctc": 5,
+  "category": "Regular"
+ },
+ {
+  "id": 481,
+  "month": "January",
+  "companyName": "Upgrad",
+  "ctc": "3.5+4.5",
+  "category": "Regular"
+ },
+ {
+  "id": 482,
+  "month": "January",
+  "companyName": "cSoft Technologies",
+  "ctc": 5,
+  "category": "Regular"
+ },
+ {
+  "id": 483,
+  "month": "January",
+  "companyName": "Cabinet Secretariat, Gov. of India",
+  "ctc": 10.8,
+  "category": "Super Dream"
+ },
+ {
+  "id": 484,
+  "month": "January",
+  "companyName": "Edustation",
+  "ctc": 4,
+  "category": "Regular"
+ },
+ {
+  "id": 485,
+  "month": "January",
+  "companyName": "Digit Insurance",
+  "ctc": 7,
+  "category": "Dream"
+ },
+ {
+  "id": 486,
+  "month": "January",
+  "companyName": "The Strelema",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 487,
+  "month": "January",
+  "companyName": "Kognitiv India",
+  "ctc": 11,
+  "category": "Super Dream"
+ },
+ {
+  "id": 488,
+  "month": "January",
+  "companyName": "Dream",
+  "ctc": 6.5,
+  "category": "Dream"
+ },
+ {
+  "id": 489,
+  "month": "January",
+  "companyName": "Tredence Analytics",
+  "ctc": 12,
+  "category": "Super Dream"
+ },
+ {
+  "id": 490,
+  "month": "January",
+  "companyName": "Whirlpool",
+  "ctc": 8.5,
+  "category": "Super Dream"
+ },
+ {
+  "id": 491,
+  "month": "January",
+  "companyName": "Efftronics Systems ",
+  "ctc": "5.3-8.2",
+  "category": "Dream"
+ },
+ {
+  "id": 492,
+  "month": "January",
+  "companyName": "Pranavam infotech",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 493,
+  "month": "February",
+  "companyName": "Ebullient Securities",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 494,
+  "month": "February",
+  "companyName": "e-Emphasys",
+  "ctc": 8,
+  "category": "Dream"
+ },
+ {
+  "id": 495,
+  "month": "February",
+  "companyName": "TestVagrant Technologies",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 496,
+  "month": "February",
+  "companyName": "SurveySparrow",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 497,
+  "month": "February",
+  "companyName": "TVS Next",
+  "ctc": 4,
+  "category": "Regular"
+ },
+ {
+  "id": 498,
+  "month": "February",
+  "companyName": "Carina Softlabs",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 499,
+  "month": "February",
+  "companyName": "S&P Global",
+  "ctc": 9,
+  "category": "Dream"
+ },
+ {
+  "id": 500,
+  "month": "February",
+  "companyName": "JMAN Group",
+  "ctc": 3.5,
+  "category": "Regular"
+ },
+ {
+  "id": 501,
+  "month": "February",
+  "companyName": "JTP (Gait) : Japan (again)",
+  "ctc": 24,
+  "category": "Super Dream"
+ },
+ {
+  "id": 502,
+  "month": "February",
+  "companyName": "Edelweiss General Insurance",
+  "ctc": 6,
+  "category": "Regular"
+ },
+ {
+  "id": 503,
+  "month": "February",
+  "companyName": "Aditya Birla Capital",
+  "ctc": 11,
+  "category": "Super Dream"
+ },
+ {
+  "id": 504,
+  "month": "February",
+  "companyName": "Honda Motorcycle & Scooter",
+  "ctc": 8,
+  "category": "Dream"
+ },
+ {
+  "id": 505,
+  "month": "February",
+  "companyName": "Tazapay - Easiertrades India LLP",
+  "ctc": 6,
+  "category": "Regular"
+ },
+ {
+  "id": 506,
+  "month": "February",
+  "companyName": "Relanto Global Pvt Ltd",
+  "ctc": 5,
+  "category": "Regular"
+ },
+ {
+  "id": 507,
+  "month": "February",
+  "companyName": "Knowledge Lens",
+  "ctc": 5,
+  "category": "Regular"
+ },
+ {
+  "id": 508,
+  "month": "February",
+  "companyName": "​Aganitha Cognitive Solutions ",
+  "ctc": "6\/8\/10",
+  "category": "Dream"
+ },
+ {
+  "id": 509,
+  "month": "February",
+  "companyName": "Waters",
+  "ctc": "-",
+  "category": "Regular"
+ },
+ {
+  "id": 510,
+  "month": "February",
+  "companyName": "Congruent Solutions",
+  "ctc": "-",
+  "category": "Regular"
+ },
+ {
+  "id": 511,
+  "month": "February",
+  "companyName": " Ignitarium Technology Solutions",
+  "ctc": 5,
+  "category": "Regular"
+ },
+ {
+  "id": 512,
+  "month": "February",
+  "companyName": "Rinex Technology",
+  "ctc": 5.2,
+  "category": "Regular"
+ },
+ {
+  "id": 513,
+  "month": "February",
+  "companyName": "Linde Engineering",
+  "ctc": 5,
+  "category": "Regular"
+ },
+ {
+  "id": 514,
+  "month": "February",
+  "companyName": "Apps Associates",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 515,
+  "month": "February",
+  "companyName": "Dhurin",
+  "ctc": 7.5,
+  "category": "Dream"
+ },
+ {
+  "id": 516,
+  "month": "February",
+  "companyName": "Gremot Mobility",
+  "ctc": 4,
+  "category": "Dream"
+ },
+ {
+  "id": 517,
+  "month": "February",
+  "companyName": "Fincart Finvest",
+  "ctc": 5,
+  "category": "Regular"
+ },
+ {
+  "id": 518,
+  "month": "February",
+  "companyName": "Tata Advanced Systems",
+  "ctc": 5,
+  "category": "Dream"
+ },
+ {
+  "id": 519,
+  "month": "February",
+  "companyName": "Cientra Techsolutions",
+  "ctc": 3.5,
+  "category": "Dream"
+ },
+ {
+  "id": 520,
+  "month": "February",
+  "companyName": "AFRICAN CYBER SECURITY MARKET",
+  "ctc": 8,
+  "category": "Super Dream"
+ },
+ {
+  "id": 521,
+  "month": "February",
+  "companyName": "KPMG India",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 522,
+  "month": "February",
+  "companyName": "Kohler",
+  "ctc": 5.5,
+  "category": "Regular"
+ },
+ {
+  "id": 523,
+  "month": "February",
+  "companyName": "HealthEdge Technologies",
+  "ctc": "12+2",
+  "category": "Super Dream"
+ },
+ {
+  "id": 524,
+  "month": "February",
+  "companyName": "Intellect Design Arena",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 525,
+  "month": "February",
+  "companyName": "Intellect Design Arena",
+  "ctc": 6.5,
+  "category": "Dream"
+ },
+ {
+  "id": 526,
+  "month": "February",
+  "companyName": "Value Creed",
+  "ctc": 6,
+  "category": "Dream"
+ },
+ {
+  "id": 527,
+  "month": "February",
+  "companyName": "BES Consultants ",
+  "ctc": 3.5,
+  "category": "Regular"
+ },
+ {
+  "id": 528,
+  "month": "February",
+  "companyName": "AAPTATT",
+  "ctc": 4.3,
+  "category": "Regular"
+ },
+ {
+  "id": 529,
+  "month": "February",
+  "companyName": "uCertify",
+  "ctc": 5,
+  "category": "Regular"
+ },
+ {
+  "id": 530,
+  "month": "March",
+  "companyName": "Exicom Tele Systems Ltd",
+  "ctc": 7,
+  "category": "Dream"
+ },
+ {
+  "id": 531,
+  "month": "March ",
+  "companyName": "Stradegi Solutions",
+  "ctc": 5,
+  "category": "Regular"
+ },
+ {
+  "id": 532,
+  "month": "March",
+  "companyName": "Softcrylic Technology",
+  "ctc": 8,
+  "category": "Dream"
+ },
+ {
+  "id": 533,
+  "month": "March",
+  "companyName": "Valued Epistemics (AdmitEDGE ",
+  "ctc": "4-5",
+  "category": "Regular"
+ },
+ {
+  "id": 534,
+  "month": "March",
+  "companyName": "DEP INDIA PVT LTD",
+  "ctc": 3,
+  "category": "Regular"
+ },
+ {
+  "id": 535,
+  "month": "March",
+  "companyName": "​Root quotient",
+  "ctc": "6-8",
+  "category": "Dream"
+ },
+ {
+  "id": 536,
+  "month": "March",
+  "companyName": "NewGenesis",
+  "ctc": 9,
+  "category": "Dream"
+ },
+ {
+  "id": 537,
+  "month": "March",
+  "companyName": "HealthAsyst",
+  "ctc": 5,
+  "category": "Regular"
+ },
+ {
+  "id": 538,
+  "month": "March",
+  "companyName": "Weaveroo Limited",
+  "ctc": 4,
+  "category": "Regular"
+ },
+ {
+  "id": 539,
+  "month": "March",
+  "companyName": "Paperflite Marketing Technology",
+  "ctc": "4-5",
+  "category": "Regular"
+ },
+ {
+  "id": 540,
+  "month": "March",
+  "companyName": "Futures First",
+  "ctc": "10.2+2",
+  "category": "Super Dream"
+ },
+ {
+  "id": 541,
+  "month": "March",
+  "companyName": "IKSULA Services",
+  "ctc": 4,
+  "category": "Regular"
+ },
+ {
+  "id": 542,
+  "month": "March",
+  "companyName": "Firstsource Solutions Limited",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 543,
+  "month": "March",
+  "companyName": "Manhattan Associates",
+  "ctc": 8,
+  "category": "Dream"
+ },
+ {
+  "id": 544,
+  "month": "March",
+  "companyName": "Headout",
+  "ctc": 15,
+  "category": "Super Dream"
+ },
+ {
+  "id": 545,
+  "month": "March",
+  "companyName": "Kaiburr Engineer",
+  "ctc": "-",
+  "category": "Super Dream"
+ },
+ {
+  "id": 546,
+  "month": "March",
+  "companyName": "Grappus",
+  "ctc": 5.5,
+  "category": "Regular"
+ },
+ {
+  "id": 547,
+  "month": "March",
+  "companyName": "Workato India",
+  "ctc": 48.9,
+  "category": "Super Dream"
+ },
+ {
+  "id": 548,
+  "month": "March",
+  "companyName": "Pickyourtrail",
+  "ctc": 4,
+  "category": "Regular"
+ },
+ {
+  "id": 549,
+  "month": "March",
+  "companyName": "L&T Technology Services ",
+  "ctc": 4,
+  "category": "Regular"
+ },
+ {
+  "id": 550,
+  "month": "March",
+  "companyName": "Microchip Technology",
+  "ctc": 8.5,
+  "category": "Dream "
+ },
+ {
+  "id": 551,
+  "month": "March",
+  "companyName": "Svaya Robotics",
+  "ctc": 4,
+  "category": "Regular"
+ },
+ {
+  "id": 552,
+  "month": "March",
+  "companyName": "Nobroker Hood",
+  "ctc": 5.72,
+  "category": "Regular"
+ },
+ {
+  "id": 553,
+  "month": "March",
+  "companyName": "Learning Routes",
+  "ctc": 5.7,
+  "category": "Regular"
+ },
+ {
+  "id": 554,
+  "month": "April ",
+  "companyName": "Startoon Labs",
+  "ctc": 5,
+  "category": "Dream "
+ },
+ {
+  "id": 555,
+  "month": "April ",
+  "companyName": "Schlumberger (again)",
+  "ctc": 12.6,
+  "category": "Super Dream"
+ },
+ {
+  "id": 556,
+  "month": "April ",
+  "companyName": "Worldline",
+  "ctc": 10.5,
+  "category": "Super Dream"
+ },
+ {
+  "id": 557,
+  "month": "April",
+  "companyName": "SkillVertex",
+  "ctc": 6,
+  "category": "Regular"
+ },
+ {
+  "id": 558,
+  "month": "April",
+  "companyName": "Perficient",
+  "ctc": 4,
+  "category": "Regular"
+ },
+ {
+  "id": 559,
+  "month": "April",
+  "companyName": "Lucas TVS Limited",
+  "ctc": 4.37,
+  "category": "Regular"
+ },
+ {
+  "id": 560,
+  "month": "April",
+  "companyName": "Gormalone LLP",
+  "ctc": 6,
+  "category": "Dream "
+ },
+ {
+  "id": 561,
+  "month": "April",
+  "companyName": "Wizni",
+  "ctc": 7,
+  "category": "Dream "
+ },
+ {
+  "id": 562,
+  "month": "April",
+  "companyName": "Hinduja Housing",
+  "ctc": 4.5,
+  "category": "Regular"
+ },
+ {
+  "id": 563,
+  "month": "April",
+  "companyName": "Tutorials Point",
+  "ctc": 3.5,
+  "category": "Regular"
+ },
+ {
+  "id": 564,
+  "month": "April",
+  "companyName": "Aveon Infotech",
+  "category": "Super Dream"
+ },
+ {
+  "id": 565,
+  "month": "April",
+  "companyName": "Varahe Analytics ",
+  "ctc": 8.4,
+  "category": "Dream "
+ },
+ {
+  "id": 566,
+  "month": "April",
+  "companyName": "Show time consulting",
+  "ctc": 4,
+  "category": "Regular"
+ },
+ {
+  "id": 567,
+  "month": "April",
+  "companyName": "i-exceed technology solutions",
+  "ctc": 4.5,
+  "category": "Regular"
+ },
+ {
+  "id": 568,
+  "month": "April",
+  "companyName": "Varun Beverages",
+  "ctc": 4.5,
+  "category": "Regular"
+ },
+ {
+  "id": 569,
+  "month": "April",
+  "companyName": "Probability Gaming",
+  "ctc": 3.5,
+  "category": "Regular"
+ },
+ {
+  "id": 570,
+  "month": "April",
+  "companyName": "FINTOO",
+  "ctc": 10,
+  "category": "Super Dream"
+ },
+ {
+  "id": 571,
+  "month": "April",
+  "companyName": "Microchip Technology",
+  "ctc": 10.5,
+  "category": "Super Dream"
+ },
+ {
+  "id": 572,
+  "month": "April",
+  "companyName": "Ashva Wearable Technologies",
+  "ctc": 5,
+  "category": "Regular"
+ },
+ {
+  "id": 573,
+  "month": "April",
+  "companyName": "Nouveau Labs",
+  "ctc": "10-15",
+  "category": "Super Dream"
+ },
+ {
+  "id": 574,
+  "month": "April",
+  "companyName": "Aliyance Technologies",
+  "ctc": 4.85,
+  "category": "Regular"
+ },
+ {
+  "id": 575,
+  "month": "May",
+  "companyName": "Perficient Regular",
+  "ctc": "4,6",
+  "category": "Dream "
+ },
+ {
+  "id": 576,
+  "month": "May",
+  "companyName": "SkilloVilla Technologies",
+  "ctc": "4.5+4.5",
+  "category": "Regular"
+ },
+ {
+  "id": 577,
+  "month": "May",
+  "companyName": "Cytel",
+  "ctc": 8,
+  "category": "Dream "
+ },
+ {
+  "id": 578,
+  "month": "May",
+  "companyName": "CLARITY TRAVEL ",
+  "ctc": 3,
+  "category": "Regular"
+ },
+ {
+  "id": 579,
+  "month": "May",
+  "companyName": "TVS Electronics ",
+  "ctc": 3.5,
+  "category": "Regular"
+ },
+ {
+  "id": 580,
+  "month": "May",
+  "companyName": "AQUERALABS INDIA ",
+  "ctc": 7,
+  "category": "Dream "
+ },
+ {
+  "id": 581,
+  "month": "May",
+  "companyName": "Victorias Secret India",
+  "ctc": 8.96,
+  "category": "Dream "
+ },
+ {
+  "id": 582,
+  "month": "May",
+  "companyName": "Eco Lab",
+  "ctc": 6,
+  "category": "Regular"
+ },
+ {
+  "id": 583,
+  "month": "May",
+  "companyName": "Brane Enterprises",
+  "ctc": 5,
+  "category": "Regular"
+ },
+ {
+  "id": 584,
+  "month": "May",
+  "companyName": "Phenom",
+  "ctc": 5.5,
+  "category": "Regular"
+ },
+ {
+  "id": 585,
+  "month": "May",
+  "companyName": "Viki Industries ",
+  "ctc": "3-6",
+  "category": "Regular"
+ },
+ {
+  "id": 586,
+  "month": "May",
+  "companyName": "Volkswagen",
+  "ctc": "9-10",
+  "category": "Super Dream"
+ },
+ {
+  "id": 587,
+  "month": "May",
+  "companyName": "Corizo",
+  "ctc": 6.5,
+  "category": "Dream "
+ },
+ {
+  "id": 588,
+  "month": "May",
+  "companyName": "Amtexsystems",
+  "ctc": 4,
+  "category": "Regular"
+ },
+ {
+  "id": 589,
+  "month": "May",
+  "companyName": "Hinduja Housing",
+  "ctc": 4,
+  "category": "Regular"
+ },
+ {
+  "id": 590,
+  "month": "May",
+  "companyName": "Valeo",
+  "category": "Regular"
+ },
+ {
+  "id": 591,
+  "month": "May",
+  "companyName": "Treebo Hotels",
+  "ctc": "8-9",
+  "category": "Dream "
+ },
+ {
+  "id": 592,
+  "month": "May",
+  "companyName": "coapps",
+  "ctc": 4,
+  "category": "Regular"
+ },
+ {
+  "id": 593,
+  "month": "May",
+  "companyName": "Apollo Tyres Limited",
+  "ctc": 6,
+  "category": "Dream "
+ },
+ {
+  "id": 594,
+  "month": "May",
+  "companyName": "Dokonaly Cargo",
+  "ctc": 4,
+  "category": "Regular"
+ },
+ {
+  "id": 595,
+  "month": "May",
+  "companyName": "Skill Duniya",
+  "ctc": 4,
+  "category": "Regular"
+ }
+]

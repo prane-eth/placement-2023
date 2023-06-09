@@ -7,7 +7,7 @@ import {
 	AiFillTwitterCircle,
 } from "react-icons/ai";
 import "./App.css";
-import Data from "./data.json";
+import Data from "./Placements.json";
 
 function App() {
 	const [searchName, setSearchName] = useState("");
@@ -20,7 +20,7 @@ function App() {
 			<nav className="navbar navbar-expand-lg bg-light">
 				<div className="container-fluid">
 					<a className="navbar-brand" href="/">
-						Placement 23
+						Placement Batch 2023
 					</a>
 					<button
 						className="navbar-toggler"
@@ -92,9 +92,10 @@ function App() {
 									}}
 								>
 									<option defaultValue>Filter by Category</option>
-									<option value="good">Regular</option>
-									<option value="dream">Dream</option>
-									<option value="superdream">Slot 1 (Super Dream)</option>
+									<option value="Slot 1">Slot 1</option>
+									<option value="Regular">Regular</option>
+									<option value="Dream">Dream</option>
+									<option value="Super Dream">Super Dream</option>
 								</select>
 							</li>
 						</ul>
@@ -109,17 +110,18 @@ function App() {
 						<th scope="col">Month</th>
 						<th scope="col">Company Name</th>
 						<th scope="col">CTC (in LPA)</th>
-						<th scope="col">Exam Date</th>
 						<th scope="col">Category</th>
 					</tr>
 				</thead>
 				<tbody className="table-group-divider">
 					{Data.filter((value) => {
-						if (searchCategory === "superdream") {
+						if (searchCategory === "Slot 1") {
 							return value.category === "Slot 1";
-						} else if (searchCategory === "dream") {
+						} else if (searchCategory === "Super Dream") {
+							return value.category === "Super Dream";
+						} else if (searchCategory === "Dream") {
 							return value.category === "Dream";
-						} else if (searchCategory === "good") {
+						} else if (searchCategory === "Regular") {
 							return value.category === "Regular";
 						} else {
 							return value;
@@ -183,7 +185,7 @@ function App() {
 								key={index}
 								className={
 									"" +
-									(value.category === "Slot 1" ? "table-primary " : "") +
+									( (value.category === "Super Dream" || value.category === "Slot 1") ? "table-primary " : "") +
 									(value.category === "Dream" ? "table-success " : "") +
 									(value.category === "Regular" ? "table-warning " : "") +
 									(value.category === "" ? "table-danger " : "")
@@ -193,7 +195,6 @@ function App() {
 								<td>{value.month}</td>
 								<td>{value.companyName}</td>
 								<td>{value.ctc}</td>
-								<td>{value.examDate}</td>
 								<td>{value.category}</td>
 							</tr>
 						))}
