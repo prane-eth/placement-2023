@@ -17,7 +17,7 @@ function App() {
 
 	return (
 		<div className="">
-			<nav className="navbar navbar-expand-lg bg-light">
+			<nav className="navbar navbar-expand-lg bg-light fixed-div">
 				<div className="container-fluid">
 					<a className="navbar-brand" href="/">
 						Placement Batch 2023
@@ -103,8 +103,8 @@ function App() {
 				</div>
 			</nav>
 
-			<table className="table table-striped table-hover table-secondary table-bordered m-0 min-vh-100">
-				<thead className="table-dark">
+			<table className="table table-striped table-hover table-secondary table-bordered m-0 min-vh-100 table-container">
+				<thead className="table-dark ">
 					<tr>
 						<th scope="col">SNo</th>
 						<th scope="col">Month</th>
@@ -191,7 +191,7 @@ function App() {
 									(value.category === "" ? "table-danger " : "")
 								}
 							>
-								<th scope="row">{index + 1}</th>
+								<th scope="row">{index}</th>
 								<td>{value.month}</td>
 								<td>{value.companyName}</td>
 								<td>{value.ctc}</td>
