@@ -4126,37 +4126,45 @@
  },
  {
   "id": 591,
-  "month": "May",
+  "month": "June",
   "companyName": "Treebo Hotels",
   "ctc": "8-9",
   "category": "Dream "
  },
  {
   "id": 592,
-  "month": "May",
+  "month": "June",
   "companyName": "coapps",
   "ctc": 4,
   "category": "Regular"
  },
  {
   "id": 593,
-  "month": "May",
+  "month": "June",
   "companyName": "Apollo Tyres Limited",
   "ctc": 6,
   "category": "Dream "
  },
  {
   "id": 594,
-  "month": "May",
+  "month": "June",
   "companyName": "Dokonaly Cargo",
   "ctc": 4,
   "category": "Regular"
  },
  {
   "id": 595,
-  "month": "May",
+  "month": "June",
   "companyName": "Skill Duniya",
   "ctc": 4,
   "category": "Regular"
+ },
+ {
+  "id": 596,
+  "month": "June",
+  "companyName": "ASAAP",
+  "ctc": "8+2",
+  "category": "Super Dream"
+
  }
 ]

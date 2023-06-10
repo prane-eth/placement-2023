@@ -20,7 +20,7 @@ function App() {
 			<nav className="navbar navbar-expand-lg bg-light">
 				<div className="container-fluid">
 					<a className="navbar-brand" href="/">
-						CSE Placement Batch 2023
+						Placement Batch 2023
 					</a>
 					<button
 						className="navbar-toggler"
@@ -53,18 +53,18 @@ function App() {
 									}}
 								>
 									<option defaultValue>Filter by Month</option>
-									<option value="January">January</option>
-									<option value="February">February</option>
-									<option value="March">March</option>
-									<option value="April">April</option>
-									<option value="May">May</option>
-									<option value="June">June</option>
 									<option value="July">July</option>
 									<option value="August">August</option>
 									<option value="September">September</option>
 									<option value="October">October</option>
 									<option value="November">November</option>
 									<option value="December">December</option>
+									<option value="January">January</option>
+									<option value="February">February</option>
+									<option value="March">March</option>
+									<option value="April">April</option>
+									<option value="May">May</option>
+									<option value="June">June</option>
 								</select>
 							</li>
 							<li className="nav-item">
@@ -93,9 +93,9 @@ function App() {
 								>
 									<option defaultValue>Filter by Category</option>
 									<option value="Slot 1">Slot 1</option>
+									<option value="Super Dream">Super Dream</option>
 									<option value="Regular">Regular</option>
 									<option value="Dream">Dream</option>
-									<option value="Super Dream">Super Dream</option>
 								</select>
 							</li>
 						</ul>
