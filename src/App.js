@@ -225,7 +225,7 @@ function App() {
 							<AiFillLinkedin size={25} />
 						</a>
 						<a
-							href="https://github.com/manavgoyal111"
+							href="https://github.com/manavgoyal111/placement-2023"
 							className="me-4 text-light"
 							target="_blank"
 							rel="noreferrer"
@@ -236,8 +236,7 @@ function App() {
 				</section>
 
 				<div className="text-center p-4">
-					Made by: &nbsp;
-					<span className="fw-bold">Kaustubh & Manav</span>
+					<span className="fw-bold">Made with ❤ by Kaustubh & Manav</span>
 				</div>
 			</footer>
 		</div>
