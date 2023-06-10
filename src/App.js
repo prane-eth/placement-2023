@@ -194,29 +194,31 @@ function App() {
       </table>
 
       <footer className="text-center text-lg-start bg-dark text-light">
-        <section className="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
-          <div className="me-5 d-none d-lg-block">
-            <span>Get connected with me on social networks:</span>
-          </div>
+	    <section className="d-flex justify-content-center p-4 border-bottom">
+          <div className="me-5 d-none d-lg-block"></div>
+		  <div className = "social-icons">
           <div>
-            <a href="/" className="me-4 text-reset">
+			<center>
+            <a href="/" className="me-4" title="GitHub">
               <AiFillGithub />
             </a>
-            <a href="/" className="me-4 text-reset">
+            <a href="/" className="me-4" title="LinkdIn">
               <AiFillLinkedin />
             </a>
-            <a href="/" className="me-4 text-reset">
+            <a href="/" className="me-4" title="Instagram">
               <AiFillInstagram />
             </a>
-            <a href="/" className="me-4 text-reset">
+            <a href="/" className="me-4" title="Google">
               <AiFillGoogleCircle />
             </a>
-            <a href="/" className="me-4 text-reset">
+            <a href="/" className="me-4" title="Twitter">
               <AiFillTwitterCircle />
             </a>
+			</center>
+			</div>
           </div>
         </section>
-      </footer>
+     </footer>
     </div>
   );
 }
