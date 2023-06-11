@@ -26,7 +26,7 @@ function App() {
       }
       const ctcDivided = ctc.split("/");
       if (ctcDivided.length > 1) {
-        return Number(ctcDivided[0]) / Number(ctcDivided[1]);
+        return Math.max(Number(ctcDivided[0]), Number(ctcDivided[1]));
       }
     }
     // To Handle regular numeric CTC values
