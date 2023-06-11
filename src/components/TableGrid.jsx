@@ -50,7 +50,7 @@ const TableGridV2 = ({ filters, ...props }) => {
 
 	return (
 		<div className='table-container'>
-			<table className="table table-striped table-hover table-secondary table-bordered m-0" style={{ width: '100%', tableLayout: 'fixed' }}>
+			<table className="table table-striped table-hover table-secondary table-bordered m-0" style={{ width: '100%', tableLayout: 'auto' }}>
 				<thead className="table-dark" style={{ position: 'sticky', top: 0, width: '100%' }}>
 					<tr style={{ width: '100%' }}>
 						<th scope="col" style={{ width: '5%' }}>SNo</th>
