@@ -5,6 +5,20 @@
     padding: 0;
     margin: 0;
 }
+
+
+.social-icons a {
+    font-size: 28px; 
+    color: rgb(255, 255, 255);
+    transition: color 0.3s; 
+    align-items: center;
+    align-content: center;
+  }
+  
+  .social-icons a:hover {
+    color: rgb(0, 0, 0); 
+  }
+
 .fixed-div {
     position: fixed;
     top: 0;
