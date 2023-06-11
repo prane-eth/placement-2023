@@ -204,7 +204,10 @@ function App() {
             <a href="/" className="me-4" title="GitHub">
               <AiFillGithub />
             </a>
-            <a href="/" className="me-4" title="LinkdIn">
+            <a href="https://www.linkedin.com/in/manav-goyal/" className="me-4" title="LinkdIn">
+              <AiFillLinkedin />
+            </a>
+            <a href="https://www.linkedin.com/in/kaustubhdwivedi1729/" className="me-4" title="LinkdIn">
               <AiFillLinkedin />
             </a>
             <a href="/" className="me-4" title="Instagram">
