@@ -210,15 +210,14 @@ function App() {
             <a href="https://www.linkedin.com/in/kaustubhdwivedi1729/" className="me-4" title="LinkdIn">
               <AiFillLinkedin />
             </a>
-            <a href="/" className="me-4" title="Instagram">
+            <a href="https://www.instagram.com/manavgoyal111/" className="me-4" title="Instagram">
               <AiFillInstagram />
             </a>
-            <a href="/" className="me-4" title="Google">
-              <AiFillGoogleCircle />
+            <a href="https://www.instagram.com/onlykingkd/" className="me-4" title="Instagram">
+              <AiFillInstagram />
             </a>
-            <a href="/" className="me-4" title="Twitter">
-              <AiFillTwitterCircle />
-            </a>
+            
+          
 			</center>
 			</div>
           </div>
