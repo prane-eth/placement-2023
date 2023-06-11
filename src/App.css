@@ -6,6 +6,7 @@
     margin: 0;
 }
 
+
 .social-icons a {
     font-size: 28px; 
     color: rgb(255, 255, 255);
@@ -17,3 +18,43 @@
   .social-icons a:hover {
     color: rgb(0, 0, 0); 
   }
+
+.fixed-div {
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: #f1f1f1;
+    padding: 5px;
+    margin-bottom: 500px;
+    width: 100%;
+  }
+  
+  .table-container {
+    /* Adjust margin to accommodate fixed div */
+    overflow: auto;
+    max-height: 400px;
+  }
+
+  .table-container table {
+    
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .table-container thead {
+    position: sticky;
+    top: 48px; /* Adjust top position to account for fixed div's height */
+    background-color: #f1f1f1;
+    
+  }
+
+  .table-container th {
+    padding: 8px;
+    border: 1px solid #ddd;
+  }
+
+  .table-container td {
+    padding: 8px;
+    border: 1px solid #ddd;
+  }
+  

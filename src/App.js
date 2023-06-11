@@ -15,6 +15,7 @@ function App() {
   const [searchCTC, setSearchCTC] = useState("");
   const [searchMonth, setSearchMonth] = useState("");
 
+
   
   const convertCTC = (ctc) => {
     if (typeof ctc === "string") {
@@ -32,6 +33,7 @@ function App() {
     // To Handle regular numeric CTC values
     return Number(ctc);
   };
+
 
   return (
     <div className="">
