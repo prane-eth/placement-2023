@@ -1,5 +1,12 @@
 [
  {
+  "id": 0,
+  "month": "July",
+  "companyName": "Google",
+  "ctc": 30.3,
+  "category": "Slot 1"
+ },
+ {
   "id": 1,
   "month": "July",
   "companyName": "Google",
