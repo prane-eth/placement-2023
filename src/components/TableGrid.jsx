@@ -2,25 +2,79 @@ import { useEffect, useState } from 'react';
 import Data from '../Placements.json';
 
 const checkCTC = (ctc, value) => {
-	// ctc can be string or number
-	// string can have values like "10.5-12.5" or "10.7/12.5/16.2" or "10.5+12.5+16.2"
-	let ctcArray = []
-	if (!isNaN(ctc)) {
-		ctcArray.push(Number(ctc))
-	} else {
-		ctc = String(ctc)
-		if (ctc.includes("-")) {
-			ctcArray = ctc.split("-").map(e => Number(e.trim()))
-		} else if (ctc.includes("+")) {
-			ctcArray = ctc.split("+").map(e => Number(e.trim()))
-		} else if (ctc.includes("/")) {
-			ctcArray = ctc.split("/").map(e => Number(e.trim()))
+	const ctcValue = parseCTC(ctc);
+	// if value is < 0, filter values less than that number
+	if (value < 0) {  // less than 10
+		if (ctcValue < 1) {  // if CTC value is empty, exclude data
+			return 0;
 		}
+		return ctcValue < Math.abs(value);
+	} else {
+		return ctcValue > value;
 	}
-	return !!ctcArray.find(e => Number(e) <= (Number(value) === 0 ? 10 : (Number(value) * 10)))
 }
 
-const TableGridV2 = ({ filters, ...props }) => {
+const getCTCFromCategory = (category) => {
+	// if no ctc in data, assign random number using category
+	// data will be at last part but sorted
+	switch (category?.trim().toLowerCase()) {
+		case 'super dream':
+			return 0.3;
+		case 'dream':
+			return 0.2;
+		case 'regular':
+			return 0.1;
+		default:
+			return 0;
+	}
+}
+
+const parseCTC = (ctc, category='') => {
+	if (typeof ctc === 'string') {
+		const regex = /[-/,]/g;
+		if (regex.test(ctc)) {
+			if (ctc.length === 1)  // if ctc is just '-' or '/'
+				return getCTCFromCategory(category);
+			const ctcArray = ctc.split(regex).map(e => Number(e.trim()));
+			return Math.max(...ctcArray);
+		} else if (ctc.includes('+')) {
+			if (ctc.length === 1)
+				return getCTCFromCategory(category);
+			const ctcArray = ctc.split('+').map(e => Number(e.trim()));
+			return ctcArray.reduce((a, b) => a + b, 0);
+		}
+	}
+	if (!ctc) {
+		return getCTCFromCategory(category);
+	}
+	return Number(ctc);
+};
+
+const sortData = (tempData, sortBy) => {
+	if (sortBy?.length > 0) {
+		tempData = [...tempData].sort((a, b) => {
+			for (const sort of sortBy) {
+				const [key, order] = sort.split('_');
+				let aValue, bValue;
+				if (key === 'ctc') {
+					aValue = parseCTC(a[key], a.category);
+					bValue = parseCTC(b[key], b.category);
+				} else {
+					aValue = a[key].trim().toLowerCase();
+					bValue = b[key].trim().toLowerCase();
+				}
+				if (aValue !== bValue) {
+					const result = order === 'asc' ? (aValue < bValue ? -1 : 1) : (aValue > bValue ? -1 : 1);
+					return result;
+				}
+			}
+			return 0;
+		});
+	}
+	return tempData;
+}
+
+const TableGridV2 = ({ filters, setFilters, sortBy, setSortBy }) => {
 
 	const [tableData, setTableData] = useState(Data);
 	useEffect(() => {
@@ -35,7 +89,6 @@ const TableGridV2 = ({ filters, ...props }) => {
 
 		if (filters.searchCTC && String(filters.searchCTC).length > 0) {
 			tempData = tempData.filter(e => {
-				console.log("CTC: ", e.ctc)
 				return checkCTC(e.ctc, filters.searchCTC)
 			})
 		}
@@ -44,9 +97,30 @@ const TableGridV2 = ({ filters, ...props }) => {
 			tempData = tempData.filter(e => String(e.companyName).toLowerCase().includes(String(filters.searchName).toLowerCase()));
 		}
 
+		// if all values of filters are empty, reset data
+		if (Object.values(filters).every(e => !e)) {
+			tempData = Data;
+		}
+
 		setTableData(tempData);
 
+		// when filters are changed, reset sorting
+		if (sortBy?.length > 0) {
+			setSortBy([...sortBy]);
+		}
+
 	}, [filters])
+
+	useEffect(() => {
+		if (sortBy?.length === 0) {
+			// undo sorting by resetting data and applying filters
+			setFilters({ ...filters });
+		} else {
+			let tempData = [...tableData];
+			tempData = sortData(tempData, sortBy);
+			setTableData(tempData);
+		}
+	}, [sortBy])
 
 	return (
 		<div className='table-container'>
