@@ -1,0 +1,17 @@
+select {
+    margin: 0 5px;
+    padding: 0 5px;
+    padding-bottom: 0%;
+    cursor: pointer;
+}
+select:hover {
+    background-color: #f2f2f2;
+}
+select::placeholder {
+    color: #bfbfbf;
+}
+/* selected option font color */
+select option:checked {
+  background-color: #f2f2f2;
+  color: red;
+}

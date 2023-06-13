@@ -22,10 +22,11 @@ const applySorting = (sortValue, setSortBy) => {
 }
 
 const SortButtons = ({ sortBy, setSortBy }) => (
-  <>
-    <label htmlFor="sort">Sort by:</label>
+  <div style={{ paddingBottom: "20px" }}>
+    <label>Sort by:</label>
     {sortList.map((sortItem, index) => (
       <Button
+        style={{ marginLeft: "1rem" }}
         key={index}
         variant={sortBy?.includes(sortItem?.value) ? "contained" : "outlined"}
         onClick={() => applySorting(sortItem?.value, setSortBy)}
@@ -33,7 +34,7 @@ const SortButtons = ({ sortBy, setSortBy }) => (
         {sortItem?.name}
       </Button>
     ))}
-  </>
+  </div>
 );
 
 export default SortButtons;

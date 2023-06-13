@@ -29,7 +29,7 @@ const getCTCFromCategory = (category) => {
 	}
 }
 
-const parseCTC = (ctc, category='') => {
+const parseCTC = (ctc, category = '') => {
 	if (typeof ctc === 'string') {
 		const regex = /[-/,]/g;
 		if (regex.test(ctc)) {
@@ -123,39 +123,46 @@ const TableGridV2 = ({ filters, setFilters, sortBy, setSortBy }) => {
 	}, [sortBy])
 
 	return (
-		<div className='table-container'>
-			<table className="table table-striped table-hover table-secondary table-bordered m-0" style={{ width: '100%', tableLayout: 'auto' }}>
-				<thead className="table-dark" style={{ position: 'sticky', top: 0, width: '100%' }}>
-					<tr style={{ width: '100%' }}>
-						<th scope="col" style={{ width: '5%' }}>SNo</th>
-						<th scope="col" style={{ width: '10%' }}>Month</th>
-						<th scope="col" style={{ width: '50%' }}>Company Name</th>
-						<th scope="col" style={{ width: '15%' }}>CTC (in LPA)</th>
-						<th scope="col" style={{ width: '15%' }}>Category</th>
-					</tr>
-				</thead>
-				<tbody className="table-group-divider">
-					{tableData
-						.map((value, index) => (
-							<tr
-								key={index}
-								className={
-									"" +
-									(value.category === "Dream" ? "table-success " : "") +
-									(value.category === "Regular" ? "table-warning " : "") +
-									(value.category === "" ? "table-danger " : "")
-								}
-							>
-								<th>{index + 1}</th>
-								<td>{value.month}</td>
-								<td>{value.companyName}</td>
-								<td>{value.ctc}</td>
-								<td>{value.category}</td>
-							</tr>
-						))}
-				</tbody>
-			</table>
-		</div>
+		<>
+			<div className='table-container'>
+				<table className="table table-striped table-hover table-secondary table-bordered m-0" style={{ width: '100%', tableLayout: 'auto' }}>
+					<thead className="table-dark" style={{ position: 'sticky', top: 0, width: '100%' }}>
+						<tr style={{ width: '100%' }}>
+							<th scope="col" style={{ width: '5%' }}>SNo</th>
+							<th scope="col" style={{ width: '10%' }}>Month</th>
+							<th scope="col" style={{ width: '50%' }}>Company Name</th>
+							<th scope="col" style={{ width: '15%' }}>CTC (in LPA)</th>
+							<th scope="col" style={{ width: '15%' }}>Category</th>
+						</tr>
+					</thead>
+					<tbody className="table-group-divider">
+						{tableData
+							.map((value, index) => (
+								<tr
+									key={index}
+									className={
+										"" +
+										(value.category === "Dream" ? "table-success " : "") +
+										(value.category === "Regular" ? "table-warning " : "") +
+										(value.category === "" ? "table-danger " : "")
+									}
+								>
+									<th>{index + 1}</th>
+									<td>{value.month}</td>
+									<td>{value.companyName}</td>
+									<td>{value.ctc}</td>
+									<td>{value.category}</td>
+								</tr>
+							))}
+					</tbody>
+				</table>
+			</div>
+			<div className="text-end">
+				<small className="text-muted">
+					Showing {tableData.length} records
+				</small>
+			</div>
+		</>
 	)
 }
 

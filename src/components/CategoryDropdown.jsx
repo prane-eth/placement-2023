@@ -21,28 +21,22 @@ export const CategoryList = [
     }
 ]
 
-const CategoryDropdown = ({ setFilters, category, ...props }) => {
-    return (
-        <select
-            name="category"
-            className="form-select"
-            defaultValue={""}
-            value={!category ? "" : category}
-            onChange={(e) => {
-                setFilters((oldValue) => ({ ...oldValue, searchCategory: e.target.value }))
-            }}
-        >
-            <option value={""}>Filter by Category</option>
-            {
-                CategoryList.map(ctc => {
-                    return (<option value={ctc.value} key={ctc.key}>
-                        {ctc.name}
-                    </option>)
-                })
-            }
-        </select>
-
-    )
-}
+const CategoryDropdown = ({ setFilters, category }) => (
+    <select
+        name="category"
+        className="form-select"
+        value={category || ""}
+        onChange={(e) => {
+            setFilters((oldValue) => ({ ...oldValue, searchCategory: e.target.value }))
+        }}
+    >
+        <option value={""}>Filter by Category</option>
+        {CategoryList.map(ctc => (
+            <option value={ctc.value} key={ctc.key}>
+                {ctc.name}
+            </option>
+        ))}
+    </select>
+)
 
 export default CategoryDropdown
