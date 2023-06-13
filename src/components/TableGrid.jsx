@@ -17,7 +17,18 @@ const checkCTC = (ctc, value) => {
 			ctcArray = ctc.split("/").map(e => Number(e.trim()))
 		}
 	}
-	return !!ctcArray.find(e => Number(e) <= (Number(value) === 0 ? 10 : (Number(value) * 10)))
+
+	return !!ctcArray.find(e => {
+		const val = Number(value);
+		const cost = Number(e);
+		if (val === 0) return cost <= 10
+		else if (val === 10) return cost >= 10
+		else if (val === 20) return cost >= 20
+		else if (val === 30) return cost >= 30
+		else if (val === 40) return cost >= 40
+		else return true;
+
+	})
 }
 
 const TableGridV2 = ({ filters, ...props }) => {
@@ -35,7 +46,6 @@ const TableGridV2 = ({ filters, ...props }) => {
 
 		if (filters.searchCTC && String(filters.searchCTC).length > 0) {
 			tempData = tempData.filter(e => {
-				console.log("CTC: ", e.ctc)
 				return checkCTC(e.ctc, filters.searchCTC)
 			})
 		}
