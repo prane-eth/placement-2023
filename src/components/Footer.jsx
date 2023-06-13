@@ -19,7 +19,7 @@ const FooterV2 = () => {
             alignItems="center"
           >
             <Grid item>
-              <span className="fw-bold">Meet Our Social Media Partners</span>
+              <span className="fw-bold">Meet Our Social Media Partner</span>
             </Grid>
             <Grid item>
               <div style={{ display: "flex", justifyContent: "center", gap: "20px" }}>
