@@ -1,2 +1,1 @@
-# Details of CSE Branch Placement 2022-23
----
+# Code is deleted completely and can't be restored
